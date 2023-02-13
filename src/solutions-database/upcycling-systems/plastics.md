@@ -5,7 +5,7 @@ author:
 isOrigiginal: true
 ---
 
-## Energy Efficiency Improvements
+## Plastics processing systems comparison
 
 please generate a mermaid.js markdown flowchart for inputs, outputs, condenser, vortex separator, plastics extruder, optical separation, cleaning, upcycling to new products
 
@@ -27,3 +27,6 @@ The flowchart begins with the input of plastic waste. The plastic waste is then 
 Next, the separated plastic waste is processed through a plastics extruder, which melts and extrudes the plastic into new shapes. The melted plastic is then passed through a condenser to remove any volatile substances and stabilize the plastic.
 
 The stabilized plastic is then subjected to a vortex separator, which separates any remaining impurities from the plastic. The final step is upcycling, where the clean, stabilized plastic is transformed into new products, such as consumer goods or building materials. These new products are the outputs of the process.
+
+
+# Plastics processing by extrusion
