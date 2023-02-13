@@ -1,9 +1,11 @@
 ---
-title: The aviation industry Energy Efficiency Improvements
+title: The Aviation Industry Energy Efficiency Improvements
 icon: info
 author: 
 isOrigiginal: true
+---
 
+## The Aviation Industry Energy Efficiency Improvements
 
 The aviation industry is facing significant challenges in reducing its carbon footprint, and alternative fuels, such as biofuels, are seen as a key solution to reducing emissions. Biofuels are made from renewable sources such as plants, and they have lower carbon emissions compared to traditional fossil fuels.
 
