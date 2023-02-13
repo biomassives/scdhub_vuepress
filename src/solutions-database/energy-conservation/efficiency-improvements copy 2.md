@@ -5,7 +5,7 @@ author:
 isOrigiginal: true
 ---
 
-## transportation sector steps to reduce reliance on fossil fuels and improve energy sustainability
+## Transportation sector steps to reduce reliance on fossil fuels and improve energy sustainability
 
 - <b>Automotive Industry:</b> Electric vehicles (EVs) and hybrid vehicles are becoming increasingly popular and widely available. Many automakers are investing heavily in the development and production of EVs, which are powered by clean, renewable energy.
 
