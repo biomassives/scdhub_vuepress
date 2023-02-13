@@ -4,7 +4,7 @@ icon: info
 author: 
 isOrigiginal: true
 --- 
-## lighting efficiency benefits
+## Lighting efficiency benefits
 
 Replacing traditional lighting with LED lights can bring significant cost savings for businesses. The primary benefit of LED lighting is its high energy efficiency, which can lead to lower electricity bills. LED lights use much less energy than incandescent lights and even less than fluorescent lights. They are also more durable and have a longer lifespan, which means that businesses can save money on replacements and maintenance costs.
 
