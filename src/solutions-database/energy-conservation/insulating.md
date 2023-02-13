@@ -1,5 +1,5 @@
 ---
-title: Insulating well and associated energy improvement benefits
+title: Insulating
 icon: info
 author: 
 isOrigiginal: true
