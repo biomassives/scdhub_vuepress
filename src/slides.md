@@ -226,7 +226,6 @@ You can use all kinds of markup in slides.
 
 ## Layout
 
-![Logo](/logo.svg)
 
 <!-- .element: class="r-stretch" -->
 
