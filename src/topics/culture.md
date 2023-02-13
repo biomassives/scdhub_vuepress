@@ -7,7 +7,7 @@ tag:
   - culture
 ---
 
-## Culture
+## Culture Shapes Us . Lets work together for peace
 
 Culture is a crucial factor in shaping people's perceptions and attitudes towards sustainable development. Different cultural backgrounds can lead to diverse understandings of what sustainability means, what are the pressing environmental issues and how they should be addressed. This can result in various outcomes for the implementation of sustainable development initiatives, depending on the socio-economic and cultural context.
 
