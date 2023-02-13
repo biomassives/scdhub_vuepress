@@ -1,12 +1,10 @@
 ---
-title: lighting efficieny Improvements
+title: Lighting
 icon: info
 author: 
 isOrigiginal: true
----
-
-- q
-please expand upon this and some of the typical cost savings associating with lighting efficieny improvements Lighting: Replacing traditional incandescent or fluorescent lights with energy-efficient LED lights can significantly reduce energy consumption and costs.
+--- 
+## lighting efficiency benefits
 
 Replacing traditional lighting with LED lights can bring significant cost savings for businesses. The primary benefit of LED lighting is its high energy efficiency, which can lead to lower electricity bills. LED lights use much less energy than incandescent lights and even less than fluorescent lights. They are also more durable and have a longer lifespan, which means that businesses can save money on replacements and maintenance costs.
 
