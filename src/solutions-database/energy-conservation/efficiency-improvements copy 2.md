@@ -5,7 +5,7 @@ author:
 isOrigiginal: true
 ---
 
-## transportation sectore reducing reliance on fossil fuels and improving energy sustainability
+## transportation sector steps to reduce reliance on fossil fuels and improve energy sustainability
 
 - <b>Automotive Industry:</b> Electric vehicles (EVs) and hybrid vehicles are becoming increasingly popular and widely available. Many automakers are investing heavily in the development and production of EVs, which are powered by clean, renewable energy.
 
@@ -15,6 +15,6 @@ isOrigiginal: true
 
 - <b>Logistics and Delivery Services:</b> Delivery companies like UPS and FedEx are incorporating alternative fuel vehicles, such as electric and hybrid vehicles, into their fleets to reduce emissions and improve energy efficiency.
 
-  - <b>Air Transportation:</b> The aviation industry is exploring alternative fuels, such as biofuels, to power their planes and reduce emissions. Airlines are also implementing more efficient routes and technologies to reduce fuel consumption and emissions.
+- <b>Air Transportation:</b> The aviation industry is exploring alternative fuels, such as biofuels, to power their planes and reduce emissions. Airlines are also implementing more efficient routes and technologies to reduce fuel consumption and emissions.
 
 Overall, these trends in transportation show a shift towards reducing reliance on traditional fossil fuels and improving energy sustainability.
