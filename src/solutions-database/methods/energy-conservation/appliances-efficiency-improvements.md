@@ -1,9 +1,11 @@
 ---
-title: Appliances - Energy Efficiency Improvements
+title: Appliances
 icon: info
 author: G. Willson
 isOrigiginal: true
 ---
+
+## Energy Efficient Appliances
 
 Appliances are a significant source of energy consumption in buildings, and upgrading to more energy-efficient models can help to reduce energy waste and costs. ENERGY STAR certified appliances are designed to meet strict energy efficiency guidelines set by the U.S. Environmental Protection Agency (EPA), and they can provide substantial savings on energy bills compared to older, less efficient models.
 
