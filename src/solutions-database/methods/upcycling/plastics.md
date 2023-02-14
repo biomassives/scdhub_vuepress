@@ -46,18 +46,18 @@ In addition to producing plastic products, the extrusion process can also be use
 
 Designing an extruder for small DIY projects and community startups focused on addressing unemployment and waste management/environmental pollution/open burn problems requires careful consideration of several key factors. These include:
 
-    Cost: Cost is a critical factor when designing an extruder for small DIY projects and community startups. The goal is to minimize the cost of the machine while ensuring that it is functional and reliable. This can be achieved by using locally sourced and low-cost materials, and by designing the machine with ease of maintenance in mind.
+- <b>Cost:</b> Cost is a critical factor when designing an extruder for small DIY projects and community startups. The goal is to minimize the cost of the machine while ensuring that it is functional and reliable. This can be achieved by using locally sourced and low-cost materials, and by designing the machine with ease of maintenance in mind.
 
-    Material compatibility: It is important to ensure that the extruder is compatible with the materials that will be processed. For example, some plastics are more difficult to process than others, and the extruder design needs to be adapted to accommodate these materials.
+- <b>Material compatibility:</b> It is important to ensure that the extruder is compatible with the materials that will be processed. For example, some plastics are more difficult to process than others, and the extruder design needs to be adapted to accommodate these materials.
 
-    Capacity: The extruder should be designed with a capacity that meets the needs of the project. For small-scale DIY projects and community startups, a smaller extruder may be more appropriate, as it will be more affordable and easier to manage.
+- <b>Capacity:</b> The extruder should be designed with a capacity that meets the needs of the project. For small-scale DIY projects and community startups, a smaller extruder may be more appropriate, as it will be more affordable and easier to manage.
 
-    Safety: Safety is a critical consideration when designing an extruder. The machine should be designed to minimize the risk of injury to operators, and to reduce the risk of fire and other safety hazards.
+- <b>Safety:</b> Safety is a critical consideration when designing an extruder. The machine should be designed to minimize the risk of injury to operators, and to reduce the risk of fire and other safety hazards.
 
-    Ease of operation: The extruder should be designed to be easy to operate, even for people with limited technical expertise. The machine should be intuitive to use, and should be equipped with user-friendly controls and displays.
+- <b>Ease of operation:</b> The extruder should be designed to be easy to operate, even for people with limited technical expertise. The machine should be intuitive to use, and should be equipped with user-friendly controls and displays.
 
-    Energy efficiency: The extruder should be designed with energy efficiency in mind. This will help to reduce the operating costs of the machine, and will also help to reduce the carbon footprint of the project.
+- <b>Energy efficiency:</b> The extruder should be designed with energy efficiency in mind. This will help to reduce the operating costs of the machine, and will also help to reduce the carbon footprint of the project.
 
-    Waste reduction: The extruder should be designed to minimize waste and to promote sustainability. For example, the machine should be designed to maximize the use of recycled materials, and to minimize the generation of plastic waste.
+    - <b>Waste reduction:</b> The extruder should be designed to minimize waste and to promote sustainability. For example, the machine should be designed to maximize the use of recycled materials, and to minimize the generation of plastic waste.
 
 By taking these factors into account, a small-scale DIY extruder can be designed that is affordable, functional, and environmentally responsible. This will help to support community-led initiatives focused on addressing unemployment and waste management/environmental pollution/open burn problems.
