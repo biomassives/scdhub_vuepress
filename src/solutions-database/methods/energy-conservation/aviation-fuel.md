@@ -1,5 +1,5 @@
 ---
-title: The Aviation Industry Energy Efficiency Improvements
+title: Aviation
 icon: info
 author: G.Willson
 isOrigiginal: true
