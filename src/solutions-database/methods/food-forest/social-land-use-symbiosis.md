@@ -1,7 +1,9 @@
 ---
-title: Food Forests Social and Land Use Progressions
+title: Symbiosis
 icon: info
 ---
+
+## Food Forests Social Land Use Symbiosis
 
 What step by step progressions of social and land use development are the best steps for progressing toward the creation of food forest symbiosis between human civilization, nature, a.i., and society. please respond with a strong emphasis on how the legal rights of nature and currently established precedents internationally influence outcomes relative to human rights, now forests, nature, and gardening as value able for their therapeutic benefits.  Community development milestones to aspire toward, and several notable people who have helped to create movements for food forests.
 
