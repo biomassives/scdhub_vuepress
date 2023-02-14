@@ -17,7 +17,7 @@ export const enNavbar = navbar([
         text: "Solid Waste",
         icon: "config",
         prefix: "",
-        children: ["municipal-solid-waste"],
+        children: ["solid-waste"],
       },
       {
         text: "Wastewater",
