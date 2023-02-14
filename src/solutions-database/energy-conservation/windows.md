@@ -1,5 +1,5 @@
 ---
-title: Window Energy Efficiency Improvements
+title: Efficient Windows
 icon: info
 author: 
 isOrigiginal: true
