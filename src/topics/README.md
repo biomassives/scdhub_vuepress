@@ -1,6 +1,6 @@
 ---
-title: Features Demo
-index: false
+title: Sustainable Community Development Topics
+index: true
 icon: discover
 category:
   - Guide
@@ -15,3 +15,5 @@ category:
 - [Wastewater and Sewage](wastewater-and-sewage.md)
 
 - [Culture](culture.md)
+
+- [Hope](hope.md)
