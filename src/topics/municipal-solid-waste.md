@@ -1,5 +1,5 @@
 ---
-title: Municipal Solid Waste Management
+title: Solid Waste Management
 icon: info
 ---
 
