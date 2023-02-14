@@ -1,7 +1,7 @@
 ---
 title: Renewable Energy
 icon: info
-author: 
+author: G. Willson
 isOrigiginal: true
 ---
 
