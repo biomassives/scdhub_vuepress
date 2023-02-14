@@ -1,15 +1,11 @@
 ---
-title: Social and Land Use Progressions
+title: Social/ Land Progressions
 icon: info
 ---
 
-
-## Greg Willson (scdhub)
+## Social and land use development progressions
 
 What step by step progressions of social and land use development are the best steps for progressing toward the creation of food forest symbiosis between human civilization , nature, a.i., and society. please respond with a strong emphasis on how the rights of nature legal status and currently estanteblished precedents internationally influence outcomes relative to human rights. 
-
-
-## OpenAI - chat.openai.com/chat
 
 Creating a food forest symbiosis between human civilization, nature, AI, and society is a complex and multidisciplinary process that requires a nuanced understanding of the interrelationships between ecology, technology, community, and legal systems. In particular, the recognition of the rights of nature can have a significant impact on the outcomes of food forest projects.
 
