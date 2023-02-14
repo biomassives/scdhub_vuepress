@@ -1,5 +1,5 @@
 ---
-title: Energy Efficiency Improvements
+title: Waste management
 icon: info
 author: 
 isOrigiginal: true
