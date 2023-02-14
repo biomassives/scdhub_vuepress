@@ -1,9 +1,12 @@
 ---
-title: energy management systems
+title: EMS
 icon: info
 author: G. Willson
 isOrigiginal: true
 ---
+
+## Energy management systems
+
 Energy management systems (EMS) are a powerful tool for improving energy efficiency and reducing energy waste in buildings. These systems use a combination of hardware, software, and sensors to monitor and control energy use, providing real-time data and analytics on energy consumption. By using this data, building owners and managers can identify areas of energy waste and inefficiency, and implement targeted strategies to reduce energy consumption and costs.
 
 Some of the interesting ways that EMS can be used to improve energy efficiency include:
