@@ -1,11 +1,11 @@
 ---
-title: HVAC Energy Efficiency Improvements
+title: HVAC
 icon: info
 author: 
 isOrigiginal: true
 ---
 
-## HVAC
+## HVAC Energy Efficiency Improvements
 
 Heating, ventilation, and air conditioning (HVAC) systems play a critical role in maintaining the comfort and indoor air quality of buildings, but they can also be significant energy consumers. Regular maintenance and upgrading of HVAC systems can help to improve their energy efficiency and reduce energy waste, which can save businesses money on energy bills.
 
