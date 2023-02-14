@@ -8,26 +8,22 @@ export const enNavbar = navbar([
     prefix: "/topics/",
     children: [
       {
-        text: "Water & Sanitation",
+        text: "Drinking Water",
         icon: "creative",
         prefix: "",
-        children: [      {
-        text: "drinking-water",
-        icon: "config",
-        prefix: "",
         children: ["drinking-water"],
-      },      {
-        text: "solid-waste",
+      },
+      {
+        text: "Solid Waste",
         icon: "config",
         prefix: "",
-        children: ["solid-waste"],
-      },      {
-        text: "Wastewater and Sewage",
+        children: ["municipal-solid-waste"],
+      },
+      {
+        text: "Wastewater",
         icon: "config",
         prefix: "",
         children: ["wastewater-and-sewage"],
-      }
-              ],
       },
       {
         text: "Organic Waste & Plastics",
