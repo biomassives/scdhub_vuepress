@@ -1,4 +1,3 @@
-
 ---
 title: Food forest human rights 
 icon: info
