@@ -1,5 +1,5 @@
 ---
-title: Perenial vegetables in temperate climate food forests
+title: Temperate perenial vegetables
 icon: info
 ---
 
