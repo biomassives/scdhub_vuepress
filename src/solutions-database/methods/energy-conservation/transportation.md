@@ -1,14 +1,13 @@
 ---
 title: Transportation
 icon: info
-author: 
+author: G.Willson
 isOrigiginal: true
 ---
 
 ## Making Transportation Systems more Efficient
 
 
-<b>Greg Willson (scdhub)</b>
 Please list the different market sectors and use trends in Transportation: Encouraging employees to carpool, take public transportation, or use electric vehicles can reduce energy consumption and greenhouse gas emissions.  can we as humans reduce reliance on traditional fossil fuels and improve energy sustainability.
 
 Some of the market sectors in transportation that are implementing trends towards reducing reliance on fossil fuels and improving energy sustainability:
@@ -24,8 +23,11 @@ Some of the market sectors in transportation that are implementing trends toward
  - <b>Air Transportation:</b> The aviation industry is exploring alternative fuels, such as biofuels, to power their planes and reduce emissions. Airlines are also implementing more efficient routes and technologies to reduce fuel consumption and emissions.
 
 Overall, these trends in transportation show a shift towards reducing reliance on traditional fossil fuels and improving energy sustainability.
-Greg Willson (scdhub)
+
+
+(scdhub)
 Automotive Industry: Electric vehicles (EVs) and hybrid vehicles are becoming increasingly popular and widely available. Many automakers are investing heavily in the development and production of EVs, which are powered by clean, renewable energy. what are the additional mineral requirements in volume and international shipping that support projected electrical vehicle adoption.
+
 
 The increased production and adoption of electric vehicles (EVs) requires a significant amount of minerals and metals, including:
 
