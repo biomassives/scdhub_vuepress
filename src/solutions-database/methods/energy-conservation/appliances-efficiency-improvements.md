@@ -1,7 +1,7 @@
 ---
 title: Appliances - Energy Efficiency Improvements
 icon: info
-author: 
+author: G. Willson
 isOrigiginal: true
 ---
 
