@@ -11,7 +11,9 @@ export const enNavbar = navbar([
         text: "Water & Sanitation",
         icon: "creative",
         prefix: "",
-        children: ["drinking-water"],["solid-waste"],["wastewater-and-sewage"],
+        children: ["drinking-water"],
+        children: ["solid-waste"],
+        children: ["wastewater-and-sewage"],
       },
       {
         text: "Organic Waste & Plastics",
