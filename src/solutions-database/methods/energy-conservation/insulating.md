@@ -1,7 +1,7 @@
 ---
 title: Insulating
 icon: info
-author: 
+author: G.Willson
 isOrigiginal: true
 ---
 
