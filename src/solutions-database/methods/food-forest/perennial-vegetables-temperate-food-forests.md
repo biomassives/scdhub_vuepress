@@ -3,9 +3,7 @@ title: Temperate perenial vegetables
 icon: info
 ---
 
-Greg Willson (scdhub)
-please provide examples of 100 popular Perennial Vegetables which are good candidates for temperate climate food forests
-
+## popular Perennial Vegetables - temperate climate food forests
 Here are 100 popular perennial vegetables that are well suited for temperate climate food forests:
 
     Asparagus
