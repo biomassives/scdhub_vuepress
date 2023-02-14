@@ -17,7 +17,7 @@ export const enNavbar = navbar([
         text: "Solid Waste",
         icon: "config",
         prefix: "",
-        children: ["municipal-solid-waste"],
+        children: ["solid-waste"],
       },
       {
         text: "Wastewater",
@@ -26,10 +26,28 @@ export const enNavbar = navbar([
         children: ["wastewater-and-sewage"],
       },
       {
-        text: "Culture",
+        text: "Plastics",
+        icon: "config",
+        prefix: "",
+        children: ["plastic"],
+      },
+      {
+        text: "Food Forests",
+        icon: "config",
+        prefix: "",
+        children: ["food-forests"],
+      },
+      {
+        text: "Cultural Awareness",
         icon: "config",
         prefix: "",
         children: ["culture"],
+      },
+      {
+        text: "Hope",
+        icon: "config",
+        prefix: "",
+        children: ["hope"],
       },
     ],
   },
