@@ -1,9 +1,10 @@
 
 ---
-title: Creating a food forest symbiosis
+title: Food forest human rights 
 icon: info
 ---
 
+## emphasis on human rights
 
 Creating a food forest symbiosis between human civilization, nature, AI, and society is a complex and multidisciplinary process that requires a nuanced understanding of the interrelationships between ecology, technology, community, and legal systems. In particular, the recognition of the rights of nature can have a significant impact on the outcomes of food forest projects.
 
