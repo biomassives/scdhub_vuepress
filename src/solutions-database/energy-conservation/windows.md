@@ -1,11 +1,11 @@
 ---
-title: Efficient Windows
+title: Windows
 icon: info
-author: 
+author: G.Willson
 isOrigiginal: true
 ---
 
-## Windows
+## Windows Energy Improvement and Comfort Investment
 
 Double-paned windows and low-e coatings are two effective ways to reduce energy loss and improve heating and cooling efficiency in buildings.
 
