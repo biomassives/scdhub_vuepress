@@ -136,26 +136,27 @@ Gardens of the Palace of Versailles, France: These historic gardens were designe
 
 Garden of the Five Senses, Delhi, India: This large urban park features a wide variety of plants and is a popular destination for visitors to Delhi.
 
-Taoro Park, Tenerife, Spain: This large urban park in Tenerife provides numerous social and environmental benefits to the local community and the surrounding area. Some of these benefits include:
+Taoro Park, Tenerife, Spain:</b> This large urban park in Tenerife provides numerous social and environmental benefits to the local community and the surrounding area. 
 
-    Improved air quality: Taoro Park helps to combat air pollution by absorbing carbon dioxide and releasing oxygen, improving air quality for the surrounding community.
+## Some of the benefits of Taoro Park include
 
-    Increased biodiversity: The park provides a habitat for a variety of wildlife, including birds, insects, and small mammals, and supports the growth of a diverse range of plant species, increasing biodiversity in the area.
+* <b>Improved air quality:</b> Taoro Park helps to combat air pollution by absorbing carbon dioxide and releasing oxygen, improving air quality for the surrounding community.
 
-    Mental and physical health benefits: Spending time in green spaces has been shown to reduce stress and anxiety, improve mood, and boost physical health through increased physical activity.
+* <b>Increased biodiversity:</b> The park provides a habitat for a variety of wildlife, including birds, insects, and small mammals, and supports the growth of a diverse range of plant species, increasing biodiversity in the area.
 
-    Improved social cohesion: Taoro Park provides a space for community members to gather, socialize, and participate in recreational activities, promoting social cohesion and community building.
+* <b>Mental and physical health benefits:</b> Spending time in green spaces has been shown to reduce stress and anxiety, improve mood, and boost physical health through increased physical activity.
 
-    Increased property values: The presence of a well-maintained green space like Taoro Park can increase property values in the surrounding area, making it a valuable asset for the local community.
+* <b>Improved social cohesion:</b> Taoro Park provides a space for community members to gather, socialize, and participate in recreational activities, promoting social cohesion and community building.
 
-    Climate regulation: Taoro Park helps regulate the local climate by providing shade, reducing heat island effects, and mitigating the impacts of stormwater runoff.
+* <b>Increased property values:</b> The presence of a well-maintained green space like Taoro Park can increase property values in the surrounding area, making it a valuable asset for the local community.
 
-    Ecological benefits: The park provides an important ecosystem service by absorbing and filtering pollutants, reducing soil erosion, and promoting water retention, which benefits the health of local waterways.
+* <b>Climate regulation:</b> Taoro Park helps regulate the local climate by providing shade, reducing heat island effects, and mitigating the impacts of stormwater runoff.
+
+  * <b>Ecological benefits:</b> The park provides an important ecosystem service by absorbing and filtering pollutants, reducing soil erosion, and promoting water retention, which benefits the health of local waterways.
 
 Overall, the Taoro Park green space project provides a range of social and environmental benefits that contribute to the sustainability and well-being of the local community and the surrounding area.
 
    
-
 
 ## Proposed projects 
 
