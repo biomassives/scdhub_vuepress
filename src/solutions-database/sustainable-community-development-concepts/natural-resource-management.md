@@ -30,11 +30,11 @@ In conclusion, leveraging resource extraction in lesser developed countries is a
 [5] RIGHTS OF NATURE: THE ECUADORIAN CASE, Hugo Echeverría, 77 REVISTA ESMAT, JUL. 10. 2017 (https://www.researchgate.net/publication/333708922_RIGHTS_OF_NATURE_THE_ECUADORIAN_CASE)
 [6] United Nations Declaration on the rights of Indigenous Peoples (https://www.un.org/esa/socdev/unpfii/documents/DRIPS_en.pdf)
 [7] Aichi Biodiversity Targets:(https://www.cbd.int/sp/targets/) 
-    Strategic Goal A: Address the underlying causes of biodiversity loss by mainstreaming biodiversity across government and society
-    Strategic Goal B: Reduce the direct pressures on biodiversity and promote sustainable use
-    Strategic Goal C: To improve the status of biodiversity by safeguarding ecosystems, species and genetic diversity
-    Strategic Goal D: Enhance the benefits to all from biodiversity and ecosystem services
-    Strategic Goal E: Enhance implementation through participatory planning, knowledge management and capacity building
+* Strategic Goal A: Address the underlying causes of biodiversity loss by mainstreaming biodiversity across government and society
+* Strategic Goal B: Reduce the direct pressures on biodiversity and promote sustainable use
+* Strategic Goal C: To improve the status of biodiversity by safeguarding ecosystems, species and genetic diversity
+* Strategic Goal D: Enhance the benefits to all from biodiversity and ecosystem services
+* Strategic Goal E: Enhance implementation through participatory planning, knowledge management and capacity building
 [8] What Are the Aichi Biodiversity Targets?, Olivia Lai (https://earth.org/what-are-the-aichi-biodiversity-targets/)
 
 ## Natural Resource Management and Preservation
