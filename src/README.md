@@ -15,7 +15,7 @@ actions:
 
 
 
-
+/solutions-database/sustainable-community-development-concepts/natural-reource-management.html
 features:
   - title: Economic viability
     icon: markdown
@@ -35,7 +35,7 @@ features:
   - title: Energy and resource efficiency
     icon: info
     details: Reducing the use of energy and other resources through conservation, energy-efficient technologies, and renewable energy sources.
-    link: /solutions-database/sustainable-community-development-concepts/energy-and-resource-efficiency
+    link: /solutions-database/sustainable-community-development-concepts/energy-and-resource-efficiency.html
 
   - title: Access to transportation
     icon: palette
@@ -45,7 +45,7 @@ features:
   - title: Access to healthcare
     icon: blog
     details: Ensuring that residents have access to healthy, affordable, and culturally appropriate food.
-    link: /solutions-database/sustainable-community-development-concepts/access-to-heathcare
+    link: /solutions-database/sustainable-community-development-concepts/access-to-healthcare.html
 
   - title: Housing
     icon: support
