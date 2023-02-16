@@ -4,10 +4,10 @@ icon: info
 category:
   - Topics
 tag:
-  - nature
+  - natural resources, rights of nature, globalization
 ---
 
-## International relationships and resource management 
+## Globalization and resource management 
 
 The extraction of natural resources in lesser developed countries is a complex issue that often has significant social and environmental impacts, including the loss of critical habitat and other ecosystems. Many of these impacts are linked to international trade agreements, which can provide incentives for multinational corporations to extract natural resources in these countries with minimal environmental regulations and limited protections for local communities.
 
