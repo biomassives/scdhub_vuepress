@@ -10,7 +10,7 @@ actions:
     link: /topics/donate
     type: primary
 
-  - text: Solutions Datanase
+  - text: Solutions Database
     link: /solutions-database/
 
 features:
