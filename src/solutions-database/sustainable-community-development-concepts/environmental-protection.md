@@ -7,7 +7,7 @@ tag:
   - Environmental Protection, SCD core concepts
 ---
 
-## Environmental Protection in 12 notable countries: the issues they face today and tomorrow
+## 12 notable countries; the issues they face today and tomorrow
 
 - <b>Germany:</b> Germany is known for its strong commitment to renewable energy and efforts to reduce greenhouse gas emissions. The country has a goal of becoming carbon neutral by 2050 and is investing in renewable energy sources such as wind and solar power. However, the country also faces challenges in phasing out coal and reducing air pollution.
 
@@ -35,7 +35,7 @@ tag:
 
 
 
-## Germany's Current Environmental Protection eforts - Feb 2023
+## Germany - Feb 2023
 
 Germany is widely recognized for its efforts in environmental protection and sustainable community development. Some of the current efforts include:
 
@@ -55,7 +55,7 @@ The intrinsic benefits of these efforts include improved public health, reduced 
 
 There are ongoing discussions and proposals for new projects, such as the implementation of a carbon tax and the expansion of renewable energy sources. However, there are also challenges, such as opposition from the fossil fuel industry and concerns over the cost of transition to renewable energy sources. Overall, Germany is making significant progress in its efforts to promote environmental protection and sustainable development, but there is still much work to be done to address ongoing environmental challenges.
 
-##  Germany's Historical Environmental Protection efforts
+## Germany's Historical Efforts
 
 - The Green Belt: In the late 1970s, the German government established the Green Belt, a protected area of forests and wetlands along the former East-West border, to prevent development and protect biodiversity.
 
@@ -72,9 +72,142 @@ The intrinsic benefits of these efforts included improved public health, reduced
 There have been ongoing discussions and proposals for new projects, such as the expansion of renewable energy sources and the implementation of carbon pricing. However, there have also been challenges, such as opposition from the fossil fuel industry and concerns over the cost of transition to renewable energy sources. Overall, Germany has a strong track record of environmental protection and sustainable development efforts, and continues to make progress in addressing ongoing environmental challenges.
 
 
+## Sweden
+
+Sweden is indeed a global leader in sustainable development and environmental protection, with ambitious goals to become a fossil-fuel-free nation. The country has made significant progress in transitioning to renewable energy sources, such as wind and hydropower, and has implemented policies and initiatives to reduce emissions in transportation, industry, and buildings.
+
+However, as you mentioned, reducing emissions from the agriculture and forestry sectors remains a challenge for Sweden. Agriculture is responsible for around 20% of the country's greenhouse gas emissions, mainly from livestock production, while the forestry sector contributes to emissions through the burning of biomass for energy production.
+
+To address these challenges, Sweden has introduced various measures, such as promoting sustainable agriculture practices and investing in research and development of new technologies for agriculture and forestry. Additionally, the country is exploring ways to use forestry products in new and innovative ways, such as biofuels and bio-based materials, to reduce emissions and promote circular economy principles.
+
+Overall, while Sweden still faces challenges in reducing emissions from certain sectors, it has made significant progress in transitioning to a sustainable and low-carbon economy. Its efforts serve as a model for other nations looking to address the urgent challenge of climate change.
+
+## Sweden Sustainability Projects and Initiatives 
 
 
-## China's Historical Environmental Protection efforts
+- <b>Växjö:</b> In the 1990s, the city of Växjö in southern Sweden set a goal to become fossil fuel-free by 2030. Through a combination of measures, including using renewable energy sources, promoting sustainable transportation, and improving energy efficiency in buildings, the city achieved its goal 20 years ahead of schedule in 2018. Växjö has become a model for other cities around the world seeking to transition to a sustainable and low-carbon economy.
+
+- <b>The Göteborg Energi Biomass Gasification Plant:</b> This plant, located in Gothenburg, is one of the largest biomass gasification plants in the world. It converts forestry waste and other biomass into renewable biogas, which is then used to produce electricity and heat. The plant has helped Sweden to reduce its dependence on fossil fuels and has gained international recognition as an example of innovative and sustainable energy production.
+
+- <b>The Stockholm Royal Seaport:</b> This urban development project in Stockholm aims to create a sustainable neighborhood that is energy-efficient, environmentally friendly, and socially inclusive. The project includes the use of renewable energy sources, green roofs, and water management systems, and is designed to promote sustainable transportation and community engagement. The Stockholm Royal Seaport has been recognized as a model for sustainable urban development.
+
+- <b>The World Water Week:</b> This annual event, organized by the Stockholm International Water Institute, brings together scientists, policymakers, and practitioners from around the world to discuss and share solutions for water-related challenges. The event raises awareness of sustainable water management practices and promotes collaboration among different stakeholders to address global water challenges.
+
+Overall, Sweden's commitment to sustainability and its innovative projects and initiatives have contributed to raising global awareness of the importance of sustainable design and systems. Through its leadership, Sweden has become a role model for other nations seeking to transition to a sustainable and low-carbon economy.
+
+
+## Costa Rica
+
+Costa Rica is well-known for its commitment to conservation and sustainable development, with a goal of becoming carbon neutral by 2021. The country has made significant progress in promoting renewable energy sources, protecting its natural resources, and reducing greenhouse gas emissions. However, it still faces challenges in reducing deforestation and promoting sustainable agriculture.
+
+Deforestation is one of the major environmental challenges in Costa Rica. Although the country has made progress in reducing deforestation rates over the past decade, the loss of forests continues to threaten the country's biodiversity, watersheds, and carbon sequestration capacity. The expansion of agricultural land and illegal logging are among the leading causes of deforestation in the country.
+
+To address these challenges, Costa Rica has implemented various policies and initiatives, such as the Payment for Environmental Services program, which provides financial incentives to landowners for preserving forests and other ecosystems. Additionally, the country has launched sustainable agricultural programs to support small-scale farmers in adopting environmentally friendly practices and reducing their environmental impact.
+
+Here are some milestones and leaders in Costa Rica's sustainability journey:
+
+- The Costa Rican government announced in 2007 that it planned to become carbon neutral by 2021, a goal that has been supported by various initiatives and policies to promote renewable energy, sustainable transport, and forest conservation.
+
+- Costa Rica has increased the share of renewable energy in its electricity mix to around 98% in 2021, mainly through the use of hydropower, geothermal, and wind power.
+
+- The Payment for Environmental Services program, launched in 1997, has helped to conserve over 3 million hectares of forests and has supported the livelihoods of thousands of small-scale farmers.
+
+- The Costa Rican biologist and environmentalist, Mario Boza, played a key role in establishing the national park system in Costa Rica and is regarded as a pioneer of conservation in the country.
+
+- The Costa Rican former president, Oscar Arias, was awarded the Nobel Peace Prize in 1987 for his efforts to promote peace and democracy in Central America, and he has also been a strong advocate for environmental protection and sustainable development.
+
+Overall, while Costa Rica faces challenges in reducing deforestation and promoting sustainable agriculture, it has made significant progress in protecting its natural resources and promoting a low-carbon economy. Its efforts serve as a model for other countries seeking to address the challenges of climate change and environmental degradation.
+
+
+
+## France
+
+France is known for its efforts to reduce greenhouse gas emissions and promote renewable energy. The country has set a goal of becoming carbon neutral by 2050 and has implemented various policies and initiatives to achieve this goal. However, as you mentioned, it also faces challenges in reducing emissions from the transportation sector and phasing out nuclear power.
+
+France has made significant progress in increasing the share of renewable energy in its electricity mix, particularly through the development of wind and solar power. The country has also implemented policies to promote energy efficiency and reduce greenhouse gas emissions from buildings, industry, and agriculture.
+
+However, France is still heavily dependent on nuclear power, which currently accounts for around 70% of the country's electricity generation. While nuclear power is a low-carbon energy source, it has been controversial due to concerns about safety, nuclear waste management, and the high cost of decommissioning nuclear power plants.
+
+France also faces challenges in reducing emissions from the transportation sector, which is responsible for around one-third of the country's greenhouse gas emissions. While the government has introduced policies to promote electric and hybrid vehicles and improve public transport, progress has been slow, and the country still relies heavily on fossil fuels for transportation.
+
+Here are some examples of France's sustainability initiatives and challenges:
+
+- The French government has launched several policies and initiatives to promote renewable energy and energy efficiency, such as the "Energy Transition for Green Growth" law, which aims to reduce France's reliance on fossil fuels and promote a low-carbon economy.
+
+- France has set a target to increase the share of renewable energy in its electricity mix to 40% by 2030 and to phase out coal-fired power plants by 2022.
+
+- The country has also invested in the development of offshore wind farms, with plans to install up to 6 GW of offshore wind power capacity by 2028.
+
+- The French company Engie (formerly GDF Suez) is one of the largest investors in renewable energy in the world, with a focus on wind and solar power.
+
+However, France faces challenges in reducing emissions from the transportation sector, particularly from road transport. While the government has introduced policies to promote electric and hybrid vehicles and improve public transport, progress has been slow, and the country still relies heavily on fossil fuels for transportation.
+
+The country also faces the challenge of phasing out nuclear power, which will require significant investment in renewable energy and energy efficiency, as well as careful planning to ensure energy security.
+
+Overall, France has made significant progress in promoting renewable energy and reducing greenhouse gas emissions, but it still faces challenges in reducing emissions from the transportation sector and phasing out nuclear power.
+
+
+## United Kingdom
+
+The UK has made significant progress in recent years towards its goal of becoming carbon neutral by 2050. Here are some of the important steps that people are taking today:
+
+- <b>Increasing renewable energy:</b> The UK is investing in renewable energy sources such as wind and solar power to reduce its reliance on fossil fuels. In 2020, renewable energy made up 42% of the UK's electricity generation, and the country has set a target to reach 100% renewable energy by 2050.
+
+- <b>Promoting sustainable transportation:</b> The UK is promoting sustainable transportation by investing in public transportation and encouraging the use of electric vehicles. The government has set a target to ban the sale of new petrol and diesel cars by 2030, and to make all new cars zero-emissions by 2035.
+
+- <b>Reducing emissions from the agriculture sector:</b> The UK is working to reduce emissions from the agriculture sector, which is responsible for around 10% of the country's greenhouse gas emissions. Initiatives such as improving soil health, reducing fertilizer use, and promoting sustainable livestock management can all help to reduce emissions from agriculture.
+
+- <b>Improving energy efficiency:</b> The UK is also working to improve energy efficiency in homes and businesses, which can help to reduce energy demand and lower greenhouse gas emissions. Initiatives such as the Green Homes Grant and the Energy Company Obligation provide financial support for energy efficiency upgrades.
+
+- <b>Phasing out fossil fuels:</b> The UK has set a goal to phase out coal-fired power plants by 2024, and to phase out all unabated fossil fuel power plants by 2035. The government is also investing in new low-carbon technologies such as carbon capture and storage to help reduce emissions from the energy sector.
+
+While the UK has made significant progress towards its goal of becoming carbon neutral by 2050, there are still challenges to be overcome. One of the biggest challenges is reducing emissions from the energy sector, particularly from industries such as aviation and shipping, which are difficult to decarbonize. The country also needs to continue to promote renewable energy and energy efficiency, and to invest in new low-carbon technologies to reduce emissions from the energy sector.
+
+
+
+## Japan
+
+In recent years, there has been a cultural move in Japan towards sustainable futures, driven in part by concerns about climate change and environmental degradation. Here are some examples:
+
+Shift towards renewable energy: There is a growing awareness in Japan of the need to shift away from fossil fuels and towards renewable energy sources such as solar and wind power. The government has set a goal to increase the share of renewable energy in the country's energy mix to 22-24% by 2030, up from around 18% in 2018. There are also many private sector initiatives promoting renewable energy, such as corporate power purchase agreements (PPAs) and community solar projects.
+
+Promoting sustainable transportation: The Japanese government is promoting sustainable transportation, particularly through the promotion of electric vehicles (EVs). The country is also investing in public transportation, such as high-speed trains, to reduce reliance on cars and reduce emissions from the transportation sector.
+
+Emphasis on waste reduction: There is a strong cultural emphasis in Japan on reducing waste and promoting recycling. For example, the country has a system of "kaiten-zushi" (conveyor belt sushi) restaurants where customers are encouraged to only take what they need and reduce food waste. There is also a strong emphasis on "mottainai" (a term that roughly translates to "what a waste") and using resources efficiently.
+
+Sustainable agriculture: There is growing interest in Japan in sustainable agriculture, particularly through the promotion of organic farming practices and the use of traditional Japanese agricultural techniques. There are also initiatives to promote local food systems and reduce food miles.
+
+However, there are still challenges to be overcome in Japan's transition to sustainable futures. One of the biggest challenges is reducing emissions from the energy sector, particularly in the context of the country's reliance on nuclear power. The 2011 Fukushima disaster has led to a greater focus on renewable energy, but there is still a significant amount of nuclear power in Japan's energy mix. Another challenge is reducing emissions from heavy industry, which is a significant contributor to greenhouse gas emissions in Japan. Overall, Japan's cultural move towards sustainable futures is a complex and evolving process, influenced by a variety of factors including government policy, public awareness, and traditional cultural values.
+
+
+# Japan projects
+
+short list of existing important Japanese environmental sustainability projects:
+
+- Existing projects:
+
+* <b>The FIT scheme:</b> This is a feed-in-tariff program that incentivizes the installation of renewable energy systems such as solar, wind and hydro power. It has been instrumental in boosting Japan's renewable energy sector.
+
+* <b>The Toyota Prius:</b> This is a hybrid-electric car that was first introduced in Japan in 1997. It has since become one of the most popular hybrid cars in the world and has helped to promote sustainable transportation.
+
+* <b>Satoyama Initiative:</b> This is a government-led program that aims to promote sustainable land use and protect traditional agricultural landscapes in Japan.
+
+* <b>Zero Waste Town:</b> Kamikatsu: This is a town in Japan that has a goal of achieving zero waste by 2020. The town has implemented a strict recycling program and promotes waste reduction and reuse.
+
+
+
+- Planned projects:
+
+* <b>Offshore wind power:</b> The Japanese government has set a goal of installing 10 GW of offshore wind power by 2030, which will be a significant boost to Japan's renewable energy sector.
+
+* <b>Smart Communities:</b> The Japanese government is promoting the development of "smart communities" that integrate renewable energy, energy storage, and electric vehicles to create more sustainable and resilient communities.
+
+* <b>Hydrogen Society:</b> Japan is promoting the development of a "hydrogen society," where hydrogen is used as a clean energy source for transportation, industry, and homes.
+
+* <b>Cool Biz:</b> This is a government-led initiative that encourages workers to dress more casually in the summer to reduce the need for air conditioning and promote energy conservation.
+
+
+## China Feb 2023
 
 Current Environmental Protection Efforts in China:
 
@@ -123,8 +256,7 @@ Intrinsic and Extrinsic Benefits:
 - Historically, environmental protection efforts in China have also led to improved air and water quality, reduced soil pollution, and increased biodiversity.
 
 
-
-## China's Current Environmental Protection eforts - Feb 2023
+## China Historical
 
 
 Environmental protection efforts in China have a long and complex history, with both successes and setbacks along the way. The Chinese government has been actively working to improve the country's environmental quality and promote sustainable development for decades. Here is a brief overview of the historical environmental protection efforts, challenges, notable figures, current status, and new initiatives in China.
@@ -189,7 +321,7 @@ China’s carbon emissions threaten global efforts to fight climate change. Its 
 (https://chinadialogue.net/en/energy/lamu-kenyan-coal-project-chinese-investors-take-environmental-risks-seriously/)
 
 
-## Brazil's Historical Environmental Protection Efforts:
+## Brazil Historical
 
 - Environmental protection has been a priority in Brazil since the 1980s, with the government implementing a number of policies and programs aimed at conserving the country's unique biodiversity and reducing deforestation.
 - One of the most significant initiatives was the creation of the Brazilian Institute of the Environment and Renewable Natural Resources (IBAMA) in 1989, which was responsible for enforcing environmental laws and regulations.
@@ -234,7 +366,7 @@ Intrinsic and Extrinsic Benefits:
 - Historically, environmental protection efforts in Brazil have led to reduced deforestation, improved waste management, and increased investment in renewable energy.
 
 
-## Current Environmental Protection Efforts in Brazil:
+## Brazil Feb 2023
 
 - The Brazilian government continues to prioritize environmental protection and sustainable development, with a focus on reducing deforestation, improving waste management, and promoting renewable energy.
 - One of the major initiatives currently underway is the implementation of the Amazon Fund, which is designed to support conservation efforts in the Amazon rainforest and promote sustainable development in the region.
@@ -277,3 +409,6 @@ Intrinsic and Extrinsic Benefits:
 - Improved environmental quality has intrinsic benefits for the health and well-being of the population and ecosystems in Brazil.
 - There are also extrinsic benefits, such as increased economic growth and improved international relations, as a result of greater investment in environmental protection and sustainable development.
 - Ongoing efforts to protect the environment in Brazil are expected to lead to reduced deforestation, improved waste management, and increased investment in renewable energy, which will bring both intrinsic and extrinsic benefits to the country.
+
+
+
