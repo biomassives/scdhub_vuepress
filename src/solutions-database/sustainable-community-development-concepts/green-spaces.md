@@ -59,7 +59,6 @@ There are also new projects being proposed to increase the amount of green space
 
 Overall, the development of green spaces in China continues to be an important aspect of sustainable community development, and there are ongoing efforts to increase the amount of green space and improve its quality.
 
-
 ## India
 
 India has a long history of creating green spaces for sustainable community development, with various efforts dating back several centuries. For example, traditional Indian communities often incorporated green spaces and parks into their urban planning, such as the Mughal-era gardens and parks in cities like Delhi and Agra.
@@ -96,45 +95,45 @@ Overall, the development of green spaces in Canada continues to be an important 
 
 Here are 20 notable recent green spaces projects from around the world:
 
-High Line, New York City, USA: This elevated park was built on a disused railroad track in Manhattan and provides a green oasis in the heart of the city.
+<b>High Line, New York City, USA:</b> This elevated park was built on a disused railroad track in Manhattan and provides a green oasis in the heart of the city.
 
-Central Park, Mumbai, India: This large urban park in the heart of Mumbai provides a green respite for residents of the city and is a popular destination for locals and tourists alike.
+<b>Central Park, Mumbai, India:</b> This large urban park in the heart of Mumbai provides a green respite for residents of the city and is a popular destination for locals and tourists alike.
 
-Gardens by the Bay, Singapore: This large park features stunning gardens, greenhouses, and sculptures, and is a popular destination for visitors to Singapore.
+<b>Gardens by the Bay, Singapore:</b> This large park features stunning gardens, greenhouses, and sculptures, and is a popular destination for visitors to Singapore.
 
-Victoria Park, Hong Kong: This large urban park in Hong Kong provides a green oasis in the heart of the city and is a popular destination for locals and tourists alike.
+<b>Victoria Park, Hong Kong:</b> This large urban park in Hong Kong provides a green oasis in the heart of the city and is a popular destination for locals and tourists alike.
 
-Tijuca National Park, Rio de Janeiro, Brazil: This large urban park covers an area of over 3,000 hectares and provides a green respite for residents of Rio de Janeiro.
+<b>Tijuca National Park, Rio de Janeiro, Brazil:</b> This large urban park covers an area of over 3,000 hectares and provides a green respite for residents of Rio de Janeiro.
 
-Park Guell, Barcelona, Spain: This whimsical park designed by Antoni Gaudi is a popular destination for tourists visiting Barcelona.
+<b>Park Guell, Barcelona, Spain:</b> This whimsical park designed by Antoni Gaudi is a popular destination for tourists visiting Barcelona.
 
-The Olympic Park, London, UK: This park was created for the 2012 Summer Olympics and has since become a popular destination for residents of London.
+<b>The Olympic Park, London, UK:</b> This park was created for the 2012 Summer Olympics and has since become a popular destination for residents of London.
 
-Stanley Park, Vancouver, Canada: This large urban park provides a green oasis in the heart of Vancouver and is a popular destination for locals and tourists alike.
+<b>Stanley Park, Vancouver, Canada:</b> This large urban park provides a green oasis in the heart of Vancouver and is a popular destination for locals and tourists alike.
 
-Maruyama Park, Kyoto, Japan: This traditional Japanese park is a popular destination for locals and tourists alike and features a large pond, cherry blossom trees, and various temples and shrines.
+<b>Maruyama Park, Kyoto, Japan:</b> This traditional Japanese park is a popular destination for locals and tourists alike and features a large pond, cherry blossom trees, and various temples and shrines.
 
-Golden Gate Park, San Francisco, USA: This large urban park in San Francisco provides a green oasis in the heart of the city and is a popular destination for locals and tourists alike.
+<b>Golden Gate Park, San Francisco, USA:</b> This large urban park in San Francisco provides a green oasis in the heart of the city and is a popular destination for locals and tourists alike.
 
-Royal Botanic Gardens, Melbourne, Australia: This large urban park features a wide variety of plants and is a popular destination for visitors to Melbourne.
+<b>Royal Botanic Gardens, Melbourne, Australia:</b> This large urban park features a wide variety of plants and is a popular destination for visitors to Melbourne.
 
-Tiergarten, Berlin, Germany: This large park in the heart of Berlin is a popular destination for locals and tourists alike and provides a green respite from the city.
+<b>Tiergarten, Berlin, Germany:</b> This large park in the heart of Berlin is a popular destination for locals and tourists alike and provides a green respite from the city.
 
-Parc des Buttes-Chaumont, Paris, France: This large park in Paris features a lake, a waterfall, and a suspension bridge, and is a popular destination for locals and tourists alike.
+<b>Parc des Buttes-Chaumont, Paris, France:</b> This large park in Paris features a lake, a waterfall, and a suspension bridge, and is a popular destination for locals and tourists alike.
 
-Shanghai Park, Shanghai, China: This large urban park provides a green oasis in the heart of Shanghai and is a popular destination for locals and tourists alike.
+<b>Shanghai Park, Shanghai, China:</b> This large urban park provides a green oasis in the heart of Shanghai and is a popular destination for locals and tourists alike.
 
-Botanic Garden of Curitiba, Curitiba, Brazil: This large urban park features a wide variety of plants and is a popular destination for visitors to Curitiba.
+<b>Botanic Garden of Curitiba, Curitiba, Brazil:</b> This large urban park features a wide variety of plants and is a popular destination for visitors to Curitiba.
 
-Balboa Park, San Diego, USA: This large urban park in San Diego provides a green oasis in the heart of the city and is a popular destination for locals and tourists alike.
+<b>Balboa Park, San Diego, USA:</b> This large urban park in San Diego provides a green oasis in the heart of the city and is a popular destination for locals and tourists alike.
 
-Kirstenbosch National Botanical Garden, Cape Town, South Africa: This large park features a wide variety of plants and is a popular destination for visitors to Cape Town.
+<b>Kirstenbosch National Botanical Garden, Cape Town, South Africa:</b> This large park features a wide variety of plants and is a popular destination for visitors to Cape Town.
 
-Gardens of the Palace of Versailles, France: These historic gardens were designed by Andre Le Notre and are a popular destination for tourists visiting the Palace of Versailles.
+<b>Gardens of the Palace of Versailles, France:</b> These historic gardens were designed by Andre Le Notre and are a popular destination for tourists visiting the Palace of Versailles.
 
-Garden of the Five Senses, Delhi, India: This large urban park features a wide variety of plants and is a popular destination for visitors to Delhi.
+<b>Garden of the Five Senses, Delhi, India:</b> This large urban park features a wide variety of plants and is a popular destination for visitors to Delhi.
 
-Taoro Park, Tenerife, Spain:</b> This large urban park in Tenerife provides numerous social and environmental benefits to the local community and the surrounding area. 
+<b>Taoro Park, Tenerife, Spain:</b> This large urban park in Tenerife provides numerous social and environmental benefits to the local community and the surrounding area. 
 
 ## Some of the benefits of Taoro Park include
 
@@ -160,42 +159,42 @@ Overall, the Taoro Park green space project provides a range of social and envir
 
 20 notable green spaces projects currently being proposed around the world:
 
-East River Blueway Plan, New York City, USA: This proposal aims to create a network of parks, walkways, and water-based recreation opportunities along the East River in New York City.
+<b>East River Blueway Plan, New York City, USA:</b> This proposal aims to create a network of parks, walkways, and water-based recreation opportunities along the East River in New York City.
 
-The Great Green Wall, Africa: This proposal aims to create a wall of vegetation across Africa to combat desertification and improve local ecosystems.
+<b>The Great Green Wall, Africa:</b> This proposal aims to create a wall of vegetation across Africa to combat desertification and improve local ecosystems.
 
-The High Line Network, Global: This proposal aims to create a network of elevated parks similar to New York City's High Line in cities around the world.
+<b>The High Line Network, Global:</b> This proposal aims to create a network of elevated parks similar to New York City's High Line in cities around the world.
 
-The London National Park City, UK: This proposal aims to create a national park in the heart of London, incorporating green spaces and nature reserves across the city.
+<b>The London National Park City, UK:</b> This proposal aims to create a national park in the heart of London, incorporating green spaces and nature reserves across the city.
 
-The Paris Promenade Plantée, France: This proposal aims to create a greenway along an old railway line in Paris, providing a new recreational opportunity for residents of the city.
+<b>The Paris Promenade Plantée, France:</b> This proposal aims to create a greenway along an old railway line in Paris, providing a new recreational opportunity for residents of the city.
 
-The Green Belt Project, China: This proposal aims to create a network of parks and green spaces around major cities in China to provide a green oasis for residents.
+<b>The Green Belt Project, China:</b> This proposal aims to create a network of parks and green spaces around major cities in China to provide a green oasis for residents.
 
-The Mumbai Coastal Road Project, India: This proposal aims to create a new coastal road in Mumbai, incorporating green spaces and parkland along the route.
+<b>The Mumbai Coastal Road Project, India:</b> This proposal aims to create a new coastal road in Mumbai, incorporating green spaces and parkland along the route.
 
-The Sydney Parklands Project, Australia: This proposal aims to create new parklands and green spaces in Sydney to provide a green oasis for residents.
+<b>The Sydney Parklands Project, Australia:</b> This proposal aims to create new parklands and green spaces in Sydney to provide a green oasis for residents.
 
-The Rio Botanical Gardens Project, Brazil: This proposal aims to create a new botanical garden in Rio de Janeiro, showcasing the biodiversity of the region.
+<b>The Rio Botanical Gardens Project, Brazil:</b> This proposal aims to create a new botanical garden in Rio de Janeiro, showcasing the biodiversity of the region.
 
-The Barcelona Green Belt Project, Spain: This proposal aims to create a green belt around Barcelona, incorporating parks and green spaces to provide a green oasis for residents.
+<b>The Barcelona Green Belt Project,</b> Spain: This proposal aims to create a green belt around Barcelona, incorporating parks and green spaces to provide a green oasis for residents.
 
-The Berlin Forest Project, Germany: This proposal aims to create a new forest in Berlin, providing a green oasis in the heart of the city.
+<b>The Berlin Forest Project, Germany:</b> This proposal aims to create a new forest in Berlin, providing a green oasis in the heart of the city.
 
-The Moscow Parkland Project, Russia: This proposal aims to create new parklands and green spaces in Moscow to provide a green oasis for residents.
+<b>The Moscow Parkland Project, Russia:</b> This proposal aims to create new parklands and green spaces in Moscow to provide a green oasis for residents.
 
-The Tokyo Waterfront Project, Japan: This proposal aims to create a new waterfront park in Tokyo, incorporating green spaces and recreational opportunities.
+<b>The Tokyo Waterfront Project, Japan:</b> This proposal aims to create a new waterfront park in Tokyo, incorporating green spaces and recreational opportunities.
 
-The Beijing Green Belt Project, China: This proposal aims to create a green belt around Beijing, incorporating parks and green spaces to provide a green oasis for residents.
+<b>The Beijing Green Belt Project, China:</b> This proposal aims to create a green belt around Beijing, incorporating parks and green spaces to provide a green oasis for residents.
 
-The Vancouver Greenway Project, Canada: This proposal aims to create a network of greenways and parks in Vancouver, providing a green oasis for residents.
+<b>The Vancouver Greenway Project, Canada:</b> This proposal aims to create a network of greenways and parks in Vancouver, providing a green oasis for residents.
 
-The Mexico City Park Project, Mexico: This proposal aims to create new parks and green spaces in Mexico City to provide a green oasis for residents.
+<b>The Mexico City Park Project, Mexico:</b> This proposal aims to create new parks and green spaces in Mexico City to provide a green oasis for residents.
 
-The Jakarta Green Belt Project, Indonesia: This proposal aims to create a green belt around Jakarta, incorporating parks and green spaces to provide a green oasis for residents.
+<b>The Jakarta Green Belt Project, Indonesia:</b> This proposal aims to create a green belt around Jakarta, incorporating parks and green spaces to provide a green oasis for residents.
 
-The Sydney Harbour Park Project, Australia: This proposal aims to create a new park along the Sydney Harbour, incorporating green spaces and recreational opportunities.
+<b>The Sydney Harbour Park Project, Australia:</b> This proposal aims to create a new park along the Sydney Harbour, incorporating green spaces and recreational opportunities.
 
-The Bangkok Green Belt Project, Thailand: This proposal aims to create a green belt around Bangkok, incorporating parks and green spaces to provide a green oasis for residents.
+<b>The Bangkok Green Belt Project, Thailand:</b> This proposal aims to create a green belt around Bangkok, incorporating parks and green spaces to provide a green oasis for residents.
 
-The Seoul Green Belt Project, South Korea: This proposal aims to create a green belt around Seoul, incorporating parks and green spaces to provide a green oasis for residents.
+<b>The Seoul Green Belt Project, South Korea:</b> This proposal aims to create a green belt around Seoul, incorporating parks and green spaces to provide a green oasis for residents.
