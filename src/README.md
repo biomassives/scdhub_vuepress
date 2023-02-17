@@ -33,6 +33,7 @@ features:
     icon: info
     details: Reducing the use of energy and other resources through conservation, energy-efficient technologies, and renewable energy sources.
     link: /solutions-database/sustainable-community-development-concepts/energy-and-resource-efficiency.html
+    /solutions-database/sustainable-community-development-concepts/energy-and-resource-efficiiency
 
   - title: Access to transportation
     icon: palette
@@ -42,7 +43,7 @@ features:
   - title: Access to healthcare
     icon: blog
     details: Ensuring that residents have access to healthy, affordable, and culturally appropriate food.
-    link: /solutions-database/sustainable-community-development-concepts/access-to-healthcare.html
+    link: /solutions-database/sustainable-community-development-concepts/access-to-healthcare
 
   - title: Housing
     icon: support
