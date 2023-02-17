@@ -13,9 +13,6 @@ actions:
   - text: Solutions Datanase
     link: /solutions-database/
 
-
-
-/solutions-database/sustainable-community-development-concepts/natural-reource-management.html
 features:
   - title: Economic viability
     icon: markdown
