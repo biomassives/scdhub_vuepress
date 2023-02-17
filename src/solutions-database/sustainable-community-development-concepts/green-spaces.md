@@ -4,10 +4,8 @@ icon: info
 category:
   - Topics
 tag:
-  - culture, SCD core concepts
+  - green spaces, core concepts
 ---
-
-
 
 
 
@@ -152,7 +150,7 @@ Taoro Park, Tenerife, Spain:</b> This large urban park in Tenerife provides nume
 
 * <b>Climate regulation:</b> Taoro Park helps regulate the local climate by providing shade, reducing heat island effects, and mitigating the impacts of stormwater runoff.
 
-  * <b>Ecological benefits:</b> The park provides an important ecosystem service by absorbing and filtering pollutants, reducing soil erosion, and promoting water retention, which benefits the health of local waterways.
+* <b>Ecological benefits:</b> The park provides an important ecosystem service by absorbing and filtering pollutants, reducing soil erosion, and promoting water retention, which benefits the health of local waterways.
 
 Overall, the Taoro Park green space project provides a range of social and environmental benefits that contribute to the sustainability and well-being of the local community and the surrounding area.
 
