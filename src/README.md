@@ -32,8 +32,7 @@ features:
   - title: Energy and resource efficiency
     icon: info
     details: Reducing the use of energy and other resources through conservation, energy-efficient technologies, and renewable energy sources.
-    link: /solutions-database/sustainable-community-development-concepts/energy-and-resource-efficiency.html
-    /solutions-database/sustainable-community-development-concepts/energy-and-resource-efficiiency
+    link: /solutions-database/sustainable-community-development-concepts/energy-and-resource-efficiency
 
   - title: Access to transportation
     icon: palette
