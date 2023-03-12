@@ -6,7 +6,7 @@ export default hopeTheme({
   hostname: "https://scdhub-vuepress.vercel.app",
 
   author: {
-    name: "G. Willson",
+    name: "Greg Willson",
     url: "https://scdhub.org",
   },
 
@@ -14,6 +14,8 @@ export default hopeTheme({
 
   logo: "/logo.svg",
 
+  navbarIcon:"/logo.svg",
+  
   repo: "vuepress-theme-hope/vuepress-theme-hope",
 
   docsDir: "demo/theme-docs/src",
