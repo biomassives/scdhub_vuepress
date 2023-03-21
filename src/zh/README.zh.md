@@ -3,7 +3,7 @@ Jiā: Shì de
 túbiāo: Jiā
 biāotí:SCD zhōngxīn
 yīngxióng xíngxiàng:/Logo.Svg
-heroText: Kě chíxù jiějué fāng'àn shùjùkù
+heroText: "Kě chíxù jiějué fāng'àn shùjùkù"
 biāoyǔ: Yīn wéi ānquán yòngshuǐ jiùshì yīqiè
 dòngzuò:
   - Wénzì: Juānzèng 💡
