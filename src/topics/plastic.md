@@ -6,6 +6,31 @@ author: G.Willson
 ---
 
 
+Good sorting and proper management of waste stream-derived plastics are crucial for efficient and environmentally friendly pyrolysis-based fuel production. Pyrolysis is a thermochemical process that involves the decomposition of organic materials at high temperatures and in the absence of oxygen. It can be used to convert waste plastics into valuable fuels and chemicals. However, the quality of the feedstock plays a vital role in determining the efficiency, sustainability, and environmental impact of the process.
+
+## Importance of good sorting in pyrolysis:
+
+    <b>Improved product quality: Good sorting ensures that only compatible plastics are processed together, resulting in higher-quality fuels and chemicals. Mixing different types of plastics can lead to the formation of unwanted byproducts, which can negatively affect the performance and value of the end products.
+
+    <b>Increased process efficiency: Proper sorting can minimize the presence of impurities in the feedstock, such as metals, glass, or other contaminants, which can cause operational issues and reduce the efficiency of the pyrolysis process.
+
+    <b>Environmental benefits: Good sorting helps to reduce the environmental impact of waste plastics. By ensuring that only suitable plastics are processed, the formation of toxic emissions and pollutants can be minimized, leading to cleaner pyrolysis-based fuel production.
+
+    <b>Cost reduction: Proper sorting can reduce the need for extensive preprocessing, such as cleaning and drying, which can lower the overall cost of the pyrolysis process.
+
+## Dangers of using poorly sorted waste stream-derived plastics for pyrolysis:
+
+    <b>Formation of toxic byproducts:</b> The presence of impurities like PVC (polyvinyl chloride) can result in the formation of harmful byproducts, such as dioxins and furans, during the pyrolysis process. These toxic substances can have severe environmental and health consequences if released into the atmosphere or if they contaminate the fuel produced.
+
+    <b>Damage to equipment:</b> Contaminants like metals, glass, and other non-plastic materials can cause damage to the pyrolysis reactor and downstream processing equipment, leading to increased maintenance costs and reduced operational lifespan.
+
+    <b>Lower fuel quality:</b> The presence of different types of plastics and impurities can lead to the production of fuels with varying characteristics, which may not meet the desired specifications or be suitable for specific applications.
+
+    <b>Reduced process efficiency:</b> The presence of contaminants and unsuitable plastics can lower the overall efficiency of the pyrolysis process, leading to increased energy consumption and higher production costs.
+
+Proper sorting and management of waste stream-derived plastics are essential for efficient and environmentally responsible pyrolysis-based fuel production. Good sorting can help to improve product quality, increase process efficiency, reduce environmental impact, and lower production costs. On the other hand, using poorly sorted plastics can lead to the formation of toxic byproducts, damage to equipment, lower fuel quality, and reduced process efficiency.
+
+
 ## Plastics Upcycling
 
 Reducing plastic waste and its negative impacts on the environment is a critical challenge that requires a comprehensive approach, including upcycling, open burn abatement, and community empowerment strategies. Here are some steps that could be taken to progress towards this goal:
