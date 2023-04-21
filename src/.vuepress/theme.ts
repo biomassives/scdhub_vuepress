@@ -16,7 +16,7 @@ export default hopeTheme({
 
   navbarIcon:"/logo.svg",
   
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
+  repo: "biomassives/scdhub_vuepress",
 
   docsDir: "demo/theme-docs/src",
 
