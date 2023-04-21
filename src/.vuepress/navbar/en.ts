@@ -51,4 +51,49 @@ export const enNavbar = navbar([
       },
     ],
   },
+ {
+    text: "Projects",
+    icon: "creative",
+    prefix: "/projects/",
+    children: [
+      {
+        text: "ESM NFTs",
+        icon: "creative",
+        prefix: "",
+        children: ["esm-nft"],
+      },
+      {
+        text: "Climate",
+        icon: "config",
+        prefix: "",
+        children: ["climate"],
+      },
+      {
+        text: "Biodiversity Credit",
+        icon: "config",
+        prefix: "",
+        children: ["biodiversity-credit"],
+      },
+      {
+        text: "Verification Training",
+        icon: "config",
+        prefix: "",
+        children: ["verification-training"],
+      },
+      {
+        text: "Methodology",
+        icon: "config",
+        prefix: "",
+        children: ["methodology"],
+      },
+      {
+        text: "Meetings",
+        icon: "config",
+        prefix: "",
+        children: ["meetings"],
+      },
+
+    ],
+  },
+
 ]);
