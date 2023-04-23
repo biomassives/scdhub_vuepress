@@ -3,7 +3,9 @@ title: Terms and Conditions
 icon: info
 ---
 
-### Hope is health restoring. Community projects bring connections, accomplishment, and well-being. -  SCD Hub and Sustainable Solutions Library
+##### Hope is health restoring. Community projects bring connections, accomplishment, and well-being. 
+
+###-  SCD Hub and Sustainable Solutions Library
 
 ## Terms and Conditions Agreement
 
