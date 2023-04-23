@@ -54,13 +54,13 @@ export const enNavbar = navbar([
  {
     text: "Projects",
     icon: "creative",
-    prefix: "/projects/",
+    prefix: "/topics/ecoops/",
     children: [
       {
         text: "ESM NFTs",
         icon: "creative",
         prefix: "",
-        children: ["esm-nft"],
+        children: ["ESM-NFT"],
       },
       {
         text: "Climate",
@@ -72,13 +72,13 @@ export const enNavbar = navbar([
         text: "Biodiversity Credit",
         icon: "config",
         prefix: "",
-        children: ["biodiversity-credit"],
+        children: ["biodiversity-credits"],
       },
       {
         text: "Verification Training",
         icon: "config",
         prefix: "",
-        children: ["verification-training"],
+        children: ["verifier"],
       },
       {
         text: "Methodology",
