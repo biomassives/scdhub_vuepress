@@ -1,5 +1,5 @@
 ---
-title: Water Quality Action : Citizen Mapping of waterways / standing water algae blooms
+title: Water Quality Action - Citizen Mapping of waterways / standing water algae blooms
 icon: info
 author: G.Willson
 index: true
@@ -28,3 +28,8 @@ This could include implementing nutrient reduction strategies, such as reducing 
 as well as improving land-use practices to prevent runoff of nutrients into waterways [1]. By taking such measures, it is possible to prevent 
 the formation of dead zones, reduce the number of fish kills, and maintain healthy aquatic ecosystems for fish and manatees [3].
 
+[1] https://www.wri.org/research/eutrophication-policies-action-and-strategies-address-nutrient-pollution
+
+[2] https://www.unep.org/nowpap/what-we-do/prevent-and-reduce-pollution/eutrophication
+
+[3] https://www.epa.gov/nutrient-policy-data/nutrient-indicators-dataset
