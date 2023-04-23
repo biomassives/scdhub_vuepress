@@ -1,5 +1,5 @@
 ---
-title: Water Quality Action - Citizen Mapping of waterways / standing water algae blooms
+title: Water Quality Action - Citizen Mapping of standing water algae blooms
 icon: info
 author: G.Willson
 index: true
