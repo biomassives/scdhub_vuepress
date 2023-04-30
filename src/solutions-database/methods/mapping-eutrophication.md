@@ -1,6 +1,6 @@
 ---
 title: Water Quality Action - Citizen Mapping of standing water algae blooms
-icon: info
+icon: info 
 author: G.Willson
 index: true
 isOrigiginal: true
