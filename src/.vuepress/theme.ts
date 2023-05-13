@@ -3,7 +3,7 @@ import { enNavbar, zhNavbar } from "./navbar/index.js";
 import { enSidebar, zhSidebar } from "./sidebar/index.js";
 
 export default hopeTheme({
-  hostname: "https://scdhub-vuepress.vercel.app",
+  hostname: "https://scdhub.org",
 
   author: {
     name: "Greg Willson",
@@ -18,7 +18,7 @@ export default hopeTheme({
   
   repo: "biomassives/scdhub_vuepress",
 
-  docsDir: "demo/theme-docs/src",
+  docsDir: "src",
 
   locales: {
     "/": {
