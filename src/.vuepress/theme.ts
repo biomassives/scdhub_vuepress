@@ -88,8 +88,8 @@ export default hopeTheme({
       /**
        * Using Waline
        */
-      provider: "biomassives",
-      serverURL: "https://vuepress-theme-hope-comment.vercel.app",
+      // provider: "biomassives",
+      // serverURL: "https://vuepress-theme-hope-comment.vercel.app",
     },
 
     // Disable features you don’t want here
