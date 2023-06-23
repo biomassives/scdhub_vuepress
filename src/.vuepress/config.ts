@@ -9,12 +9,12 @@ export default defineUserConfig({
     "/": {
       lang: "en-US",
       title: "SCD Hub",
-      description: "Sustainable Water & Sanitation Solutions Database",
+      description: "Sustainable Community Development Hub",
     },
     "/zh/": {
       lang: "zh-CN",
       title: "文档演示",
-      description: "vuepress-theme-hope 的文档演示",
+      description: "Sustainable Community Development Hub 可持續社區發展中心",
     },
   },
   plugins: [
