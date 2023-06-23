@@ -92,8 +92,37 @@ export const enNavbar = navbar([
         prefix: "",
         children: ["meetings"],
       },
-
     ],
   },
-
+ {
+    text: "Programs",
+    icon: "creative",
+    prefix: "/topics/programs/",
+    children: [
+      {
+        text: "Sutainable Solutions Database",
+        icon: "creative",
+        prefix: "",
+        children: ["solutions-database"],
+      },
+      {
+        text: "SCD Hub Forum",
+        icon: "config",
+        prefix: "",
+        children: ["mylunch"],
+      },
+      {
+        text: "Eco Ops App",
+        icon: "config",
+        prefix: "",
+        children: ["biodiversity-credits"],
+      },
+      {
+        text: "Project Portal",
+        icon: "config",
+        prefix: "",
+        children: ["eccity-projects-portal"],
+      },
+    ],
+  },  
 ]);
