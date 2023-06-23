@@ -109,7 +109,7 @@ export const enNavbar = navbar([
         text: "SCD Hub Forum",
         icon: "config",
         prefix: "",
-        children: ["mylunch"],
+        children: ["mylunch.link"],
       },
       {
         text: "Eco Ops App",
@@ -121,7 +121,13 @@ export const enNavbar = navbar([
         text: "Project Portal",
         icon: "config",
         prefix: "",
-        children: ["eccity-projects-portal"],
+        children: ["ecocity-projects-portal"],
+      },     
+      {
+        text: "All Nations Center",
+        icon: "config",
+        prefix: "",
+        children: ["all-nations-center"],
       },
     ],
   },  
