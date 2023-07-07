@@ -9,6 +9,6 @@
 - https://scdhub.org
 
 
-- DATA to be served to eco ops app.   ( opps? )
+- DATA to be served via api endpoints some where as part of vuepress spec.
 
 - feb 13 2023
