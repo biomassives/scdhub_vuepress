@@ -1,0 +1,14 @@
+export const data = JSON.parse("{\"key\":\"v-5da1ea29\",\"path\":\"/solutions-database/municipal-solidwaste/transfer/no-transfer.html\",\"title\":\"No Waste Transfer\",\"lang\":\"en-US\",\"frontmatter\":{\"title\":\"No Waste Transfer\",\"index\":true,\"icon\":\"info\",\"description\":\"Failure to properly manage solid waste can result in several serious issues, including: Public health concerns: Uncollected or improperly managed waste can attract vermin, such ...\",\"head\":[[\"meta\",{\"property\":\"og:url\",\"content\":\"https://scdhub-vuepress.vercel.app/solutions-database/municipal-solidwaste/transfer/no-transfer.html\"}],[\"meta\",{\"property\":\"og:site_name\",\"content\":\"SCD Hub\"}],[\"meta\",{\"property\":\"og:title\",\"content\":\"No Waste Transfer\"}],[\"meta\",{\"property\":\"og:description\",\"content\":\"Failure to properly manage solid waste can result in several serious issues, including: Public health concerns: Uncollected or improperly managed waste can attract vermin, such ...\"}],[\"meta\",{\"property\":\"og:type\",\"content\":\"article\"}],[\"meta\",{\"property\":\"og:locale\",\"content\":\"en-US\"}],[\"script\",{\"type\":\"application/ld+json\"},\"{\\\"@context\\\":\\\"https://schema.org\\\",\\\"@type\\\":\\\"Article\\\",\\\"headline\\\":\\\"No Waste Transfer\\\",\\\"image\\\":[\\\"\\\"],\\\"dateModified\\\":null,\\\"author\\\":[]}\"]]},\"headers\":[{\"level\":2,\"title\":\"Failure to properly manage solid waste can result in several serious issues, including:\",\"slug\":\"failure-to-properly-manage-solid-waste-can-result-in-several-serious-issues-including\",\"link\":\"#failure-to-properly-manage-solid-waste-can-result-in-several-serious-issues-including\",\"children\":[]},{\"level\":2,\"title\":\"Examples of failures in solid waste management include:\",\"slug\":\"examples-of-failures-in-solid-waste-management-include\",\"link\":\"#examples-of-failures-in-solid-waste-management-include\",\"children\":[]},{\"level\":2,\"title\":\"Innovative solutions to solid waste management include:\",\"slug\":\"innovative-solutions-to-solid-waste-management-include\",\"link\":\"#innovative-solutions-to-solid-waste-management-include\",\"children\":[]},{\"level\":2,\"title\":\"Leaders in solid waste management include:\",\"slug\":\"leaders-in-solid-waste-management-include\",\"link\":\"#leaders-in-solid-waste-management-include\",\"children\":[]}],\"readingTime\":{\"minutes\":1.33,\"words\":400},\"filePathRelative\":\"solutions-database/municipal-solidwaste/transfer/no-transfer.md\",\"autoDesc\":true}")
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updatePageData) {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ data }) => {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  })
+}

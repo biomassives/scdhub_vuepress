@@ -1,0 +1,14 @@
+export const data = JSON.parse("{\"key\":\"v-4fe03d8c\",\"path\":\"/solutions-database/sustainable-community-development-concepts/green-spaces.html\",\"title\":\"Green Spaces\",\"lang\":\"en-US\",\"frontmatter\":{\"title\":\"Green Spaces\",\"icon\":\"info\",\"category\":[\"Topics\"],\"tag\":[\"green spaces, core concepts\"],\"description\":\"Kenya Green spaces have been a significant aspect of sustainable community development in Kenya. Over the years, various efforts have been made to create green spaces in urban a...\",\"head\":[[\"meta\",{\"property\":\"og:url\",\"content\":\"https://scdhub-vuepress.vercel.app/solutions-database/sustainable-community-development-concepts/green-spaces.html\"}],[\"meta\",{\"property\":\"og:site_name\",\"content\":\"SCD Hub\"}],[\"meta\",{\"property\":\"og:title\",\"content\":\"Green Spaces\"}],[\"meta\",{\"property\":\"og:description\",\"content\":\"Kenya Green spaces have been a significant aspect of sustainable community development in Kenya. Over the years, various efforts have been made to create green spaces in urban a...\"}],[\"meta\",{\"property\":\"og:type\",\"content\":\"article\"}],[\"meta\",{\"property\":\"og:locale\",\"content\":\"en-US\"}],[\"meta\",{\"property\":\"article:tag\",\"content\":\"green spaces, core concepts\"}],[\"script\",{\"type\":\"application/ld+json\"},\"{\\\"@context\\\":\\\"https://schema.org\\\",\\\"@type\\\":\\\"Article\\\",\\\"headline\\\":\\\"Green Spaces\\\",\\\"image\\\":[\\\"\\\"],\\\"dateModified\\\":null,\\\"author\\\":[]}\"]]},\"headers\":[{\"level\":2,\"title\":\"Kenya\",\"slug\":\"kenya\",\"link\":\"#kenya\",\"children\":[]},{\"level\":2,\"title\":\"United States\",\"slug\":\"united-states\",\"link\":\"#united-states\",\"children\":[]},{\"level\":2,\"title\":\"China\",\"slug\":\"china\",\"link\":\"#china\",\"children\":[]},{\"level\":2,\"title\":\"India\",\"slug\":\"india\",\"link\":\"#india\",\"children\":[]},{\"level\":2,\"title\":\"Canada\",\"slug\":\"canada\",\"link\":\"#canada\",\"children\":[]},{\"level\":2,\"title\":\"Notable recent projects\",\"slug\":\"notable-recent-projects\",\"link\":\"#notable-recent-projects\",\"children\":[]},{\"level\":2,\"title\":\"Some of the benefits of Taoro Park include\",\"slug\":\"some-of-the-benefits-of-taoro-park-include\",\"link\":\"#some-of-the-benefits-of-taoro-park-include\",\"children\":[]},{\"level\":2,\"title\":\"Proposed projects\",\"slug\":\"proposed-projects\",\"link\":\"#proposed-projects\",\"children\":[]}],\"readingTime\":{\"minutes\":10.96,\"words\":3287},\"filePathRelative\":\"solutions-database/sustainable-community-development-concepts/green-spaces.md\",\"autoDesc\":true}")
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updatePageData) {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ data }) => {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  })
+}
