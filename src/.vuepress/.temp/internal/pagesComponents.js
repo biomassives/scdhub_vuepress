@@ -41,8 +41,6 @@ export const pagesComponents = {
   "v-5b617af3": defineAsyncComponent(() => import(/* webpackChunkName: "v-5b617af3" */"/home/greg/cesium/scdhub_vuepress/src/.vuepress/.temp/pages/solutions-database/methods/mapping-eutrophication.html.vue")),
   // path: /solutions-database/methods/plastic-to-fuel-pyrolysis.html
   "v-3fc87426": defineAsyncComponent(() => import(/* webpackChunkName: "v-3fc87426" */"/home/greg/cesium/scdhub_vuepress/src/.vuepress/.temp/pages/solutions-database/methods/plastic-to-fuel-pyrolysis.html.vue")),
-  // path: /solutions-database/quests/rocky-mountains-usa.html
-  "v-297de54c": defineAsyncComponent(() => import(/* webpackChunkName: "v-297de54c" */"/home/greg/cesium/scdhub_vuepress/src/.vuepress/.temp/pages/solutions-database/quests/rocky-mountains-usa.html.vue")),
   // path: /solutions-database/sustainable-community-development-concepts/access-to-healthcare.html
   "v-d4059066": defineAsyncComponent(() => import(/* webpackChunkName: "v-d4059066" */"/home/greg/cesium/scdhub_vuepress/src/.vuepress/.temp/pages/solutions-database/sustainable-community-development-concepts/access-to-healthcare.html.vue")),
   // path: /solutions-database/sustainable-community-development-concepts/access-to-transportation.html
@@ -351,4 +349,6 @@ export const pagesComponents = {
   "v-f4ac12b8": defineAsyncComponent(() => import(/* webpackChunkName: "v-f4ac12b8" */"/home/greg/cesium/scdhub_vuepress/src/.vuepress/.temp/pages/solutions-database/sewage-and-wastewater/treatment/advanced-sludge-treatment-proceses/index.html.vue")),
   // path: /topics/ecoops/climate.html
   "v-484f49f0": defineAsyncComponent(() => import(/* webpackChunkName: "v-484f49f0" */"/home/greg/cesium/scdhub_vuepress/src/.vuepress/.temp/pages/topics/ecoops/climate.html.vue")),
+  // path: /topics/ecoops/rocky-mountains-usa.html
+  "v-0be29c72": defineAsyncComponent(() => import(/* webpackChunkName: "v-0be29c72" */"/home/greg/cesium/scdhub_vuepress/src/.vuepress/.temp/pages/topics/ecoops/rocky-mountains-usa.html.vue")),
 }

@@ -6,16 +6,12 @@ cat: story, inspiration, scdhub vision
 Region: Rocky Mountains
 
 ## Objective:
-Players must work together to promote sustainable practices and improve the 
-environment across various sectors in Colorado, including recycling, upcycling, 
-food solutions, relocalizing, forest health, wildlife conservation, river 
-preservation, toxic waste abatement, and nuclear awareness.
+Collaborate to promote sustainable practices and improve the 
+environment across various sectors in Colorado, including recycling, upcycling, food solutions, relocalizing, forest health, wildlife conservation, river preservation, water and soil quality..
 
 ## Description:
-Embark on a challenging and rewarding journey in the Rocky Mountain Eco Ops 
-quest. Collaborate with other players to address environmental issues in Colorado's 
-mountain tech and outdoors community. Throughout the quest, players will engage in 
-various activities designed to promote ecological balance and a sustainable lifestyle.
+Rocky Mountain Eco Ops quest to collaborate with other players to address environmental issues in Colorado's  mountain tech and outdoors community. Throughout the quest, players will engage in 
+various activities designed to promote ecological balance and an understanding of the relevance of sustainable lifestyles.
 
 ## Eco Ops Quests:
 

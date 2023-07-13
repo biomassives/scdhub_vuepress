@@ -39,8 +39,6 @@ export const pagesData = {
   "v-5b617af3": () => import(/* webpackChunkName: "v-5b617af3" */"/home/greg/cesium/scdhub_vuepress/src/.vuepress/.temp/pages/solutions-database/methods/mapping-eutrophication.html.js").then(({ data }) => data),
   // path: /solutions-database/methods/plastic-to-fuel-pyrolysis.html
   "v-3fc87426": () => import(/* webpackChunkName: "v-3fc87426" */"/home/greg/cesium/scdhub_vuepress/src/.vuepress/.temp/pages/solutions-database/methods/plastic-to-fuel-pyrolysis.html.js").then(({ data }) => data),
-  // path: /solutions-database/quests/rocky-mountains-usa.html
-  "v-297de54c": () => import(/* webpackChunkName: "v-297de54c" */"/home/greg/cesium/scdhub_vuepress/src/.vuepress/.temp/pages/solutions-database/quests/rocky-mountains-usa.html.js").then(({ data }) => data),
   // path: /solutions-database/sustainable-community-development-concepts/access-to-healthcare.html
   "v-d4059066": () => import(/* webpackChunkName: "v-d4059066" */"/home/greg/cesium/scdhub_vuepress/src/.vuepress/.temp/pages/solutions-database/sustainable-community-development-concepts/access-to-healthcare.html.js").then(({ data }) => data),
   // path: /solutions-database/sustainable-community-development-concepts/access-to-transportation.html
@@ -349,4 +347,6 @@ export const pagesData = {
   "v-f4ac12b8": () => import(/* webpackChunkName: "v-f4ac12b8" */"/home/greg/cesium/scdhub_vuepress/src/.vuepress/.temp/pages/solutions-database/sewage-and-wastewater/treatment/advanced-sludge-treatment-proceses/index.html.js").then(({ data }) => data),
   // path: /topics/ecoops/climate.html
   "v-484f49f0": () => import(/* webpackChunkName: "v-484f49f0" */"/home/greg/cesium/scdhub_vuepress/src/.vuepress/.temp/pages/topics/ecoops/climate.html.js").then(({ data }) => data),
+  // path: /topics/ecoops/rocky-mountains-usa.html
+  "v-0be29c72": () => import(/* webpackChunkName: "v-0be29c72" */"/home/greg/cesium/scdhub_vuepress/src/.vuepress/.temp/pages/topics/ecoops/rocky-mountains-usa.html.js").then(({ data }) => data),
 }
