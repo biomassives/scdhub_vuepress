@@ -6,7 +6,7 @@ environment across various sectors in Colorado, including recycling, upcycling, 
 <p>Rocky Mountain Eco Ops quest to collaborate with other players to address environmental issues in Colorado's  mountain tech and outdoors community. Throughout the quest, players will engage in
 various activities designed to promote ecological balance and an understanding of the relevance of sustainable lifestyles.</p>
 <h2 id="eco-ops-quests" tabindex="-1"><a class="header-anchor" href="#eco-ops-quests" aria-hidden="true">#</a> Eco Ops Quests:</h2>
-<h3 id="recycling-and-upcycling-initiative" tabindex="-1"><a class="header-anchor" href="#recycling-and-upcycling-initiative" aria-hidden="true">#</a> Recycling and Upcycling Initiative:</h3>
+<h3 id="recycling-and-upcycling" tabindex="-1"><a class="header-anchor" href="#recycling-and-upcycling" aria-hidden="true">#</a> Recycling and Upcycling:</h3>
 <pre><code>Create and promote an innovative recycling and upcycling campaign. Encourage community members to participate by repurposing waste materials into functional items, art, or even new products.
 </code></pre>
 <h3 id="sustainable-food-solutions" tabindex="-1"><a class="header-anchor" href="#sustainable-food-solutions" aria-hidden="true">#</a> Sustainable Food Solutions:</h3>

@@ -1,6 +1,6 @@
 <template><div><h5 id="hope-is-health-restoring-community-projects-bring-connections-accomplishment-and-well-being" tabindex="-1"><a class="header-anchor" href="#hope-is-health-restoring-community-projects-bring-connections-accomplishment-and-well-being" aria-hidden="true">#</a> Hope is health restoring. Community projects bring connections, accomplishment, and well-being.</h5>
 <p>###-  SCD Hub and Sustainable Solutions Library</p>
-<h2 id="terms-and-conditions-agreement" tabindex="-1"><a class="header-anchor" href="#terms-and-conditions-agreement" aria-hidden="true">#</a> Terms and Conditions Agreement</h2>
+<h2 id="terms-of-service" tabindex="-1"><a class="header-anchor" href="#terms-of-service" aria-hidden="true">#</a> Terms of Service</h2>
 <p>Welcome to [Non-Profit Organization Name] (&quot;we,&quot; &quot;us,&quot; &quot;our,&quot; or &quot;NPO&quot;), a 501(c)(3) non-profit organization dedicated to sustainable community development projects and awareness. By accessing or using our website (the &quot;Site&quot;), you agree to be bound by these Terms and Conditions (&quot;Terms&quot;). If you do not agree to these Terms, you may not access or use the Site.</p>
 <pre><code>Site Content and Use
 </code></pre>

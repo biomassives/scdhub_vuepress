@@ -7,7 +7,7 @@ icon: info
 
 ###-  SCD Hub and Sustainable Solutions Library
 
-## Terms and Conditions Agreement
+## Terms of Service
 
 Welcome to [Non-Profit Organization Name] ("we," "us," "our," or "NPO"), a 501(c)(3) non-profit organization dedicated to sustainable community development projects and awareness. By accessing or using our website (the "Site"), you agree to be bound by these Terms and Conditions ("Terms"). If you do not agree to these Terms, you may not access or use the Site.
 

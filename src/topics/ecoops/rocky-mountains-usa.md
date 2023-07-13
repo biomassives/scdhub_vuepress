@@ -15,7 +15,7 @@ various activities designed to promote ecological balance and an understanding o
 
 ## Eco Ops Quests:
 
-### Recycling and Upcycling Initiative:
+### Recycling and Upcycling:
 
     Create and promote an innovative recycling and upcycling campaign. Encourage community members to participate by repurposing waste materials into functional items, art, or even new products.
 
