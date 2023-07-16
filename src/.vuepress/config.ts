@@ -22,14 +22,19 @@ export default defineUserConfig({
       description: "सतत सामुदायिक विकास केंद्र",
     },
     "/ne/": {
-      lang: ne-NE",
+      lang: "ne-NE",
       title: "नेपाली",
       description: "दिगो सामुदायिक विकास हब",
     },
     "/es/": {
-      lang: es-MX",
+      lang: "es-MX",
       title: "नेपाली",
       description: "दिगो सामुदायिक विकास हब",
+    },
+    "/sw/": {
+      lang: "sw-KE",
+      title: "Swahili",
+      description: "Kitovu cha Maendeleo Endelevu ya Jamii",
     },
   },
   plugins: [
