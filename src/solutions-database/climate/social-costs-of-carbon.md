@@ -2,7 +2,7 @@
 title: Beyond Kyoto 2023
 category: carbon credits, biodiversity credits, eco ops app, ESM NFTs 
 tags: 
-___
+---
 
 ## Kyoto
 
