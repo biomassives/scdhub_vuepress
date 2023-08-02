@@ -19,22 +19,22 @@ export default defineUserConfig({
     "/hi/": {
       lang: "hi-IN",
       title: "हिंदी",
-      description: "सतत सामुदायिक विकास केंद्र",
+      description: "SCD Hub सतत सामुदायिक विकास केंद्र",
     },
     "/ne/": {
       lang: "ne-NE",
       title: "नेपाली",
-      description: "दिगो सामुदायिक विकास हब",
+      description: "SCD Hub दिगो सामुदायिक विकास हब",
     },
     "/es/": {
       lang: "es-MX",
       title: "नेपाली",
-      description: "दिगो सामुदायिक विकास हब",
+      description: "SCD Hub Centro de desarrollo comunitario sostenible",
     },
     "/sw/": {
       lang: "sw-KE",
       title: "Swahili",
-      description: "Kitovu cha Maendeleo Endelevu ya Jamii",
+      description: "SCD Hub  Kitovu cha Maendeleo Endelevu ya Jamii",
     },
   },
   plugins: [
