@@ -20,7 +20,7 @@ export default hopeTheme({
 
   docsDir: "src",
     
-  docsRepo: "https://github.com/biomassives/scdhub_vuepress/edit/main/src",
+  docsRepo: "https://github.com/biomassives/scdhub_vuepress",
 
   locales: {
     "/": {
