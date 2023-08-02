@@ -109,7 +109,7 @@ export const enNavbar = navbar([
         text: "SCD Hub Forum",
         icon: "config",
         prefix: "",
-        children: ["mylunch.link"],
+        children: ["ecoops-mastodon"],
       },
       {
         text: "Eco Ops App",
