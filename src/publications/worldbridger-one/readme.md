@@ -3,7 +3,7 @@ title: Worldbridger One
 cat: story, inspiration, scdhub vision
 ---
 
-## 
+### This is an ongoing fictional story of inspiration and hope written to explore some of the themese central to SCD Hub
 
 
 I: Echoes of the Past - The Biodiversity of the Amazon
