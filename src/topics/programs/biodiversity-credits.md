@@ -6,14 +6,25 @@ tags: database api, providing edits, topics, goals
 
 
 
+# Eco Ops App
+
+currently in testing : http://ecoops-supa-magic.vercel.app
 
 
- 
+## Biodiversity Credit Customer Portal
+
+currently in testing : http://ecocity.com
+
+## Biodiversity Credit Verifiers' self verification model.
+
+Doing the right thing for the environment on a global level does not preclude each
+of us from learning to live more sustainably.
 
 ## Emphasis on water & hygiene
 
 Core issue is to understand and anticipate human needs through a new lens. 
 
+is local guild production of water filters possible where you live? in the US, Kenya, elsewhere, water filters save lives. 
 
 ## Emphasis on human rights & peace
 
