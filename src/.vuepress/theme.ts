@@ -12,9 +12,9 @@ export default hopeTheme({
 
   iconAssets: "iconfont",
 
-  logo: "/logo.svg",
+  logo: "/logo.png",
 
-  navbarIcon:"/logo.svg",
+  navbarIcon:"/logo.png",
   
   repo: "biomassives/scdhub_vuepress",
 
@@ -35,7 +35,7 @@ export default hopeTheme({
       displayFooter: true,
 
       metaLocales: {
-        editLink: "Edit this page on GitHub",
+        editLink: "Improve SCD Hub> edit for this page on GitHub",
       },
     },
 
