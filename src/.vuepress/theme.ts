@@ -1,6 +1,6 @@
 import { hopeTheme } from "vuepress-theme-hope";
-import { enNavbar, zhNavbar } from "./navbar/index.js";
-import { enSidebar, zhSidebar } from "./sidebar/index.js";
+import { enNavbar, zhNavbar, hiNavbar } from "./navbar/index.js";
+import { enSidebar, zhSidebar, hiSidebar } from "./sidebar/index.js";
 
 export default hopeTheme({
   hostname: "https://scdhub.org",
@@ -39,6 +39,29 @@ export default hopeTheme({
       },
     },
 
+    
+    /**
+     * Hindi locale config
+     */
+    "/hi/": {
+      // navbar
+      navbar: hiNavbar,
+
+      // sidebar
+      sidebar: hiSidebar,
+
+      footer: "Default footer",
+
+      displayFooter: true,
+
+      // page meta
+      metaLocales: {
+        editLink: "GitHub पर इस पृष्ठ को संपादित करें",
+      },
+    },
+
+
+    
     /**
      * Chinese locale config
      */
