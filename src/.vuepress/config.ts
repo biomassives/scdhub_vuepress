@@ -14,17 +14,17 @@ export default defineUserConfig({
     "/zh/": {
       lang: "zh-CN",
       title: "文档演示",
-      description: "Sustainable Community Development Hub 可持續社區發展中心",
+      description: "Sustainable Community Development Hub",
     },
     "/hi/": {
       lang: "hi-IN",
       title: "Hindi",
-      description: "SCD Hub सतत सामुदायिक विकास केंद्र",
+      description: "Sustainable Community Development Hub",
     },
     "/ne/": {
       lang: "ne-NE",
       title: "Nepali",
-      description: "SCD Hub दिगो सामुदायिक विकास हब",
+      description: "Sustainable Community Development Hub",
     },
     "/es/": {
       lang: "es-MX",
