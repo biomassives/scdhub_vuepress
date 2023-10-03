@@ -1,50 +1,50 @@
 import { navbar } from "vuepress-theme-hope";
 
-export const enNavbar = navbar([
+export const esNavbar = navbar([
   "/",
   {
-    text: "Solutions",
+    text: "Soluciones",
     icon: "creative",
     prefix: "/topics/",
     children: [
       {
-        text: "Drinking Water",
+        text: "Agua potable",
         icon: "creative",
         prefix: "",
         children: ["drinking-water"],
       },
       {
-        text: "Solid Waste",
+        text: "Residuo sólido",
         icon: "config",
         prefix: "",
         children: ["solid-waste"],
       },
       {
-        text: "Wastewater",
+        text: "Aguas residuales",
         icon: "config",
         prefix: "",
         children: ["wastewater-and-sewage"],
       },
       {
-        text: "Organic Waste & Plastics",
+        text: "Residuos Orgánicos y Plásticos",
         icon: "config",
         prefix: "",
         children: ["plastic"],
       },
       {
-        text: "Food Forests",
+        text: "Bosques de alimentos",
         icon: "config",
         prefix: "",
         children: ["food-forests"],
       },
       {
-        text: "Cultural Awareness",
+        text: "Conciencia cultural",
         icon: "config",
         prefix: "",
         children: ["culture"],
       },
       {
-        text: "Hope",
+        text: "Esperanza",
         icon: "config",
         prefix: "",
         children: ["hope"],
@@ -52,42 +52,42 @@ export const enNavbar = navbar([
     ],
   },
  {
-    text: "Projects",
+    text: "Proyectos",
     icon: "creative",
     prefix: "/topics/ecoops/",
     children: [
       {
-        text: "ESM NFTs",
+        text: "Eco Ops NFTs",
         icon: "creative",
         prefix: "",
         children: ["ESM-NFT"],
       },
       {
-        text: "Climate",
+        text: "Clima",
         icon: "config",
         prefix: "",
         children: ["climate"],
       },
       {
-        text: "Biodiversity Credit",
+        text: "Crédito de Biodiversidad",
         icon: "config",
         prefix: "",
         children: ["biodiversity-credits"],
       },
       {
-        text: "Verification Training",
+        text: "Capacitación de verificación",
         icon: "config",
         prefix: "",
         children: ["verifier"],
       },
       {
-        text: "Methodology",
+        text: "Metodología",
         icon: "config",
         prefix: "",
         children: ["methodology"],
       },
       {
-        text: "Meetings",
+        text: "Reuniones",
         icon: "config",
         prefix: "",
         children: ["meetings"],
