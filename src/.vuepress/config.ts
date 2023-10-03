@@ -18,17 +18,17 @@ export default defineUserConfig({
     },
     "/hi/": {
       lang: "hi-IN",
-      title: "हिंदी",
+      title: "Hindi",
       description: "SCD Hub सतत सामुदायिक विकास केंद्र",
     },
     "/ne/": {
       lang: "ne-NE",
-      title: "नेपाली",
+      title: "Nepali",
       description: "SCD Hub दिगो सामुदायिक विकास हब",
     },
     "/es/": {
       lang: "es-MX",
-      title: "नेपाली",
+      title: "Español",
       description: "SCD Hub Centro de desarrollo comunitario sostenible",
     },
     "/sw/": {
