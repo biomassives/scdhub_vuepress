@@ -1,50 +1,50 @@
 import { navbar } from "vuepress-theme-hope";
 
-export const enNavbar = navbar([
+export const hiNavbar = navbar([
   "/",
   {
-    text: "Solutions",
+    text: "समाधान",
     icon: "creative",
     prefix: "/topics/",
     children: [
       {
-        text: "Drinking Water",
+        text: "पेय जल",
         icon: "creative",
         prefix: "",
         children: ["drinking-water"],
       },
       {
-        text: "Solid Waste",
+        text: "ठोस अपशिष्ट",
         icon: "config",
         prefix: "",
         children: ["solid-waste"],
       },
       {
-        text: "Wastewater",
+        text: "अपशिष्ट",
         icon: "config",
         prefix: "",
         children: ["wastewater-and-sewage"],
       },
       {
-        text: "Organic Waste & Plastics",
+        text: "जैविक अपशिष्ट एवं प्लास्टिक",
         icon: "config",
         prefix: "",
         children: ["plastic"],
       },
       {
-        text: "Food Forests",
+        text: "खाद्य वन",
         icon: "config",
         prefix: "",
         children: ["food-forests"],
       },
       {
-        text: "Cultural Awareness",
+        text: "सांस्कृतिक जागरूकता",
         icon: "config",
         prefix: "",
         children: ["culture"],
       },
       {
-        text: "Hope",
+        text: "आशा",
         icon: "config",
         prefix: "",
         children: ["hope"],
@@ -52,42 +52,42 @@ export const enNavbar = navbar([
     ],
   },
  {
-    text: "Projects",
+    text: "परियोजनाओं",
     icon: "creative",
     prefix: "/topics/ecoops/",
     children: [
       {
-        text: "ESM NFTs",
+        text: "Eco Ops NFTs",
         icon: "creative",
         prefix: "",
-        children: ["ESM-NFT"],
+        children: ["Eco-Ops-NFT"],
       },
       {
-        text: "Climate",
+        text: "जलवायु",
         icon: "config",
         prefix: "",
         children: ["climate"],
       },
       {
-        text: "Biodiversity Credit",
+        text: "जैव विविधता श्रेय",
         icon: "config",
         prefix: "",
         children: ["biodiversity-credits"],
       },
       {
-        text: "Verification Training",
+        text: "सत्यापन प्रशिक्षण",
         icon: "config",
         prefix: "",
         children: ["verifier"],
       },
       {
-        text: "Methodology",
+        text: "क्रियाविधि",
         icon: "config",
         prefix: "",
         children: ["methodology"],
       },
       {
-        text: "Meetings",
+        text: "बैठक",
         icon: "config",
         prefix: "",
         children: ["meetings"],
@@ -95,7 +95,7 @@ export const enNavbar = navbar([
     ],
   },
  {
-    text: "Programs",
+    text: "कार्यक्रमों",
     icon: "creative",
     prefix: "/topics/programs/",
     children: [
