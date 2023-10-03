@@ -1,50 +1,50 @@
 import { navbar } from "vuepress-theme-hope";
 
-export const enNavbar = navbar([
+export const swNavbar = navbar([
   "/",
   {
-    text: "Solutions",
+    text: "Ufumbuzi",
     icon: "creative",
     prefix: "/topics/",
     children: [
       {
-        text: "Drinking Water",
+        text: "Maji ya kunywa",
         icon: "creative",
         prefix: "",
         children: ["drinking-water"],
       },
       {
-        text: "Solid Waste",
+        text: "Taka ngumu",
         icon: "config",
         prefix: "",
         children: ["solid-waste"],
       },
       {
-        text: "Wastewater",
+        text: "Maji machafu",
         icon: "config",
         prefix: "",
         children: ["wastewater-and-sewage"],
       },
       {
-        text: "Organic Waste & Plastics",
+        text: "Taka za Kikaboni na Plastiki",
         icon: "config",
         prefix: "",
         children: ["plastic"],
       },
       {
-        text: "Food Forests",
+        text: "Misitu ya Chakula",
         icon: "config",
         prefix: "",
         children: ["food-forests"],
       },
       {
-        text: "Cultural Awareness",
+        text: "Uelewa wa Utamaduni",
         icon: "config",
         prefix: "",
         children: ["culture"],
       },
       {
-        text: "Hope",
+        text: "Tumaini",
         icon: "config",
         prefix: "",
         children: ["hope"],
@@ -52,42 +52,42 @@ export const enNavbar = navbar([
     ],
   },
  {
-    text: "Projects",
+    text: "Miradi",
     icon: "creative",
     prefix: "/topics/ecoops/",
     children: [
       {
-        text: "ESM NFTs",
+        text: "Eco Ops NFTs",
         icon: "creative",
         prefix: "",
         children: ["ESM-NFT"],
       },
       {
-        text: "Climate",
+        text: "Hali ya hewa",
         icon: "config",
         prefix: "",
         children: ["climate"],
       },
       {
-        text: "Biodiversity Credit",
+        text: "Mikopo ya Bioanuwai",
         icon: "config",
         prefix: "",
         children: ["biodiversity-credits"],
       },
       {
-        text: "Verification Training",
+        text: "Mafunzo ya Uthibitishaji",
         icon: "config",
         prefix: "",
         children: ["verifier"],
       },
       {
-        text: "Methodology",
+        text: "Mbinu",
         icon: "config",
         prefix: "",
         children: ["methodology"],
       },
       {
-        text: "Meetings",
+        text: "Mikutano",
         icon: "config",
         prefix: "",
         children: ["meetings"],
