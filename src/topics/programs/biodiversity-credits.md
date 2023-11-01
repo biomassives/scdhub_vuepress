@@ -5,15 +5,16 @@ tags: database api, providing edits, topics, goals
 ---
 
 
-
 # Eco Ops App
 
 currently in testing : http://ecoops-supa-magic.vercel.app
-
+code source - https://github.com/biomassives/ecoops-supa-magic
 
 ## Biodiversity Credit Customer Portal
 
 currently in testing : http://ecocity.com
+site is live and integration of exif gallery: https://exif-photo-blog-wheat.vercel.app/
+
 
 ## Biodiversity Credit Verifiers' self verification model.
 
