@@ -4,17 +4,11 @@ category: SCD Hub Forum, Community Context
 tags: database api, providing edits, topics, goals
 ---
 
-## Sustainable Solutions Database
-
-Topics of a are encouraged to be added to .
-our format is water resource topics, systems 
-
-and diy maintenance research for the various technologies presented.
-
-## Emphasis on water & hygiene
+## Sustainable Solutions Database -- Emphasis on water & hygiene
 
 Core issue is to understand and anticipate human needs through a new lens. 
 
+Preparing basic documents for eco clubs and enuring there is relevant new information on the 72 basic WATSAN topics and sup areas, as per SCD Hub mission.
 
 
 [SCD Hub Eco Ops Mastodon](https://mastodon.social/invite/qhpvkUeA)
