@@ -5,13 +5,21 @@ icon: info
 author: G.Willson
 ---
 
-## ESM NFT purpose and capabilities
+## Eco Ops Sustainable Community Project
 
-# What are ESM NFTs?
+goals: 
+ - support volunteer rewards with low cost "POAP" type 'participation' tokens
+ - report generation from checkins and reviews
+ - recognition of effort providers
+ - review system to encourage cooperation and healthy competition between participating schools , businesses, organizations.
+
+# How does thiss program  us NFT technology?
 
 |  -  |  -  |  -  |
 | Environmental | Social | Monetary |
-| Exoworld | Sustaibility | Model |
+| Exoworld | Ecocity  |   Worldbridger.one |
+| Sustainability | Circular Economies |
+| Reycling | Composting | Kitchen Gardens |
 |  -  |  -  |  -  |
 
 
@@ -22,33 +30,34 @@ Biodiversity credits are a type of environmental offset that are designed to pre
 Climate credit NFTs are a type of NFT that represents a unit of carbon offset or carbon credit. They are used to support projects that reduce greenhouse gas emissions or sequester carbon, such as reforestation or renewable energy projects. Climate credit NFTs can be purchased by individuals or companies as a way to offset their carbon footprint and contribute to the fight against climate change.
 
 
-Purpose of ESM NFTs for Verifiers:
+Purpose of Eco Ops NFTs for Verifiers:
+| Volunteer Rewards Model |
 
  
-I. Understanding the Eco Action-based ESM NFTs Model
+I. Understanding the Eco Action-based Eco Ops NFTs Model
   A. Explanation of the model
   B. How it differs from traditional NFT models
   C. Benefits of the model for environmental conservation efforts
   D. Potential challenges and limitations of the model
 
-II. Implementation of the Eco Action-based ESM NFTs Model
+II. Implementation of the Eco Action-based Eco Ops NFTs Model
   A. Identifying and verifying eco actions
-  B. Minting and distributing ESM NFTs
-  C. Tracking and verifying ESM NFT ownership
+  B. Minting and distributing Eco Ops NFTs
+  C. Tracking and verifying Eco Ops NFT ownership
   D. Ensuring the integrity and transparency of the model
 
-III. Challenges of the Eco Action-based ESM NFTs Model
+III. Challenges of the Eco Action-based Eco Ops NFTs Model
   A. Technical challenges in implementing the model
   B. Legal and regulatory challenges
   C. Ensuring the model is accessible and inclusive
 
-IV. Potential Impact of the Eco Action-based ESM NFTs Model
+IV. Potential Impact of the Eco Action-based Eco Ops NFTs Model
   A. Promoting and incentivizing eco actions
   B. Creating a culture of environmental stewardship
   C. Encouraging collaboration and community engagement
   D. Contributing to environmental conservation efforts on a global scale
 
 V. Conclusion
-  A. Summary of the eco action-based ESM NFTs model
+  A. Summary of the eco action-based Eco Ops NFTs model
   B. Potential for the model to drive environmental conservation efforts
   C. Future implications and directions for the model.
