@@ -1,8 +1,8 @@
 ---
-title: ESM NFTs
+title: Eco Ops NFT Program
 index: true
 icon: info
-author: G.Willson
+author: SCD Hub
 ---
 
 ## Eco Ops Sustainable Community Project
@@ -13,7 +13,7 @@ goals:
  - recognition of effort providers
  - review system to encourage cooperation and healthy competition between participating schools , businesses, organizations.
 
-# How does thiss program  us NFT technology?
+# How does thi  program  us NFT technology?
 
 |  -  |  -  |  -  |
 | Environmental | Social | Monetary |
