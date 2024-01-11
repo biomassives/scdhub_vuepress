@@ -1,4 +1,6 @@
-## scdhub_vuepress
+## Sustainable Community Development Peace Engineering Solutions Hub
+
+## tech for this archive which runs on vercel.com or netlify.com build systems
 
 - use of hope theme from vuepress
 
